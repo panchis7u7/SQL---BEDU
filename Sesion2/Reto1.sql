@@ -1,4 +1,4 @@
-use Tienda;
+use tienda;
 
 #1 ¿Qué artículos incluyen la palabra Pasta en su nombre?
 SELECT * FROM articulo WHERE nombre LIKE '%pasta%';

@@ -2,7 +2,7 @@
 USE tienda;
 
 #1 ¿Cuál es el nombre de los empleados cuyo sueldo es menor a $10,000?
-SELECT nombre FROM empleado WHERE id_puesto IN (SELECT id_puesto FROM puesto WHERE salario > 100000);
+SELECT nombre FROM empleado WHERE id_puesto IN (SELECT id_puesto FROM puesto WHERE salario < 100000);
 
 #2 ¿Cuál es la cantidad mínima y máxima de ventas de cada empleado?
 SELECT id_empleado, MAX(total_ventas) AS Max_Ventas, MIN(total_ventas) AS Min_Ventas FROM (

@@ -12,3 +12,7 @@
         }
     }
 }]
+
+[{$match: {
+  amenities: {$in: [/.*Wifi.*|.*Ethernet.*/i]}
+}}, {$count: "documentos"}]

@@ -1,0 +1,5256 @@
+id_city,city,id_state
+1, Niederzissen,104
+2,1~2F,0
+3,2-3-6 Kyonancho,30
+4,330-9501,61
+5,438-1 Fujisawa,31
+6,A Coruna,10
+7,威海市,71
+8,临海市,67
+9,临沂市,71
+10,常州市,66
+11,常熟市,66
+12,三亚市,77
+13,丽江市,81
+14,丽水市,67
+15,中山市,75
+16,东阳市,67
+17,东营市,71
+18,东莞市,75
+19,上海市,65
+20,上虞市,67
+21,保定市,30
+22,嘉善市,67
+23,嘉兴,67
+24,嘉兴市,67
+25,呼和浩特,32
+26,咸阳市,82
+27,哈尔滨,29
+28,唐山市,30
+29,儋州市,77
+30,大庆市,29
+31,大理市,81
+32,大连市,63
+33,天津市,62
+34,太仓市,66
+35,太原市,31
+36,奉化市,67
+37,延吉市,64
+38,廊坊市,61
+39,姜堰市,66
+40,宿迁市,66
+41,宁德市,69
+42,宁波市,65
+43,宝鸡市,82
+44,宜兴市,66
+45,宜昌市,73
+46,兰州市,83
+47,兰溪市,67
+48,Århus,111
+49,合肥市,68
+50,吴江市,66
+51,台州市,67
+52,吉林市,64
+53,十堰市,73
+54,南宁市,76
+55,Łódź,241
+56,南昌市,70
+57,南京市,66
+58,南通市,66
+59,张家口,30
+60,张家港,66
+61,张家港市,66
+62,佛山市,75
+63,余姚市,67
+64,德州市,71
+65,德阳市,79
+66,徐州市,66
+67,广州市,75
+68,义乌市,67
+69,乐山市,79
+70,乐清市,67
+71,九江市,70
+72,岳阳市,74
+73,Aachen,103
+74,Aalborg,108
+75,Aalborg SV,108
+76,Aarau,49
+77,Aarhus C,111
+78,Abbotsford,40
+79,Aberdeen,137
+80,Abilene,331
+81,Abingdon,119
+82,Abington,118
+83,Absecon,321
+84,Abu Dhabi,3
+85,Abu Halifa,186
+86,Abu Hamour,246
+87,Acapulco,204
+88,Accokeek,119
+89,Acton,118
+90,Acworth,304
+91,Adachi-ku,30
+92,Adana,92
+93,Addison,308
+94,Adelanto,300
+95,Admiralty,86
+96,Adrian,314
+97,株洲市,74
+98,无锡市,66
+99,成都市,79
+100,桂林,76
+101,武汉市,73
+102,洛阳,72
+103,温州市,67
+104,温岭市,67
+105,清远市,75
+106,昆山市,66
+107,昆明市,81
+108,梅州市,75
+109,日照市,71
+110,汕头市,75
+111,江山市,67
+112,江门市,75
+113,江阴市,66
+114,江苏省,66
+115,浦东新区,65
+116,海宁市,67
+117,海口市,77
+118,海门市,66
+119,济宁市,71
+120,济南市,71
+121,淄博市,71
+122,深圳市,75
+123,淮安市,66
+124,慈溪市,67
+125,承德市,30
+126,扬中市,66
+127,扬州市,66
+128,杭州市,67
+129,漳州市,69
+130,潍坊市,71
+131,湘潭市,74
+132,湛江市,75
+133,湖州市,67
+134,沈阳市,63
+135,泰安市,71
+136,泰州市,66
+137,泉州市,69
+138,惠州市,75
+139,溧阳市,66
+140,抚顺市,63
+141,柳州,76
+142,Affton,94
+143,Afyon,14
+144,Afyonkarahisar,14
+145,Ageo,61
+146,Aghia Paraskevi,139
+147,Agoura,300
+148,Agoura Hills,300
+149,Aguascalientes,194
+150,AHAHEIM,300
+151,Ahmadi,186
+152,Aiea,305
+153,Aiken,329
+154,Airdrie,39
+155,Airway Heights,334
+156,Aizumi-cho,70
+157,Ajax,44
+158,Ajman,2
+159,Akashi,177
+160,Akishima,30
+161,Akita,15
+162,Akron,325
+163,Al Ain,3
+164,Al Barsha,4
+165,AL KHARJ,92
+166,Al Riffa,31
+167,Al Riqqa,186
+168,Alabaster,298
+169,Alajuela,89
+170,Alameda,300
+171,Alamo,300
+172,Alamogordo,322
+173,Alamosa,301
+174,Albany,300
+175,Alborg,108
+176,Albuquerque,322
+177,Alcoa,160
+178,Aldaia,114
+179,Al-Dammam,164
+180,Aldergrove,40
+181,Aldie,332
+182,Alexandria,312
+183,Algonquin,308
+184,Alhambra,300
+185,Alicante,115
+186,Aliso Viejo,300
+187,Allen,331
+188,Allen Park,314
+189,Allendale,314
+190,Allentown,328
+191,Alliance,325
+192,Alma,314
+193,Almada,61
+194,Almaty,191
+195,Almondsbury,135
+196,Aloha,327
+197,Alor Setar,28
+198,Alpharetta,304
+199,Alpine,300
+200,Altamonte Springs,303
+201,Altoona,306
+202,Altrincham,135
+203,Alvin,331
+204,Amadora,61
+205,Amagasaki,177
+206,Amarillo,331
+207,Amelia,325
+208,American Canyon,300
+209,American Fork,228
+210,Amersfoort,228
+211,Ames,306
+212,Amherst,118
+213,Amityville,324
+214,Amman,162
+215,Ampang,168
+216,Amstelveen,226
+217,Amsterdam,226
+218,Anacortes,334
+219,Anaheim,300
+220,Anaheim Hills,300
+221,Ancaster,44
+222,Anchorage,297
+223,Anderson,300
+224,Andong-si,183
+225,Andorra la Vella,1
+226,Andover,310
+227,Andrews AFB,119
+228,Angeles City,14
+229,Angels Camp,300
+230,Angono,182
+231,Anjo,29
+232,Anjou,46
+233,Ankara,165
+234,Ankeny,306
+235,Ann Arbor,314
+236,Ann Arbor East,314
+237,Annaka,168
+238,Annandale,332
+239,Annapolis,119
+240,Anoka,315
+241,Ansan,72
+242,Ansan-si,72
+243,Ansonia,116
+244,Ansung,72
+245,Antalya,1
+246,Antelope,300
+247,Anthem,3
+248,Antiguo Cuscatlan,58
+249,Antioch,300
+250,Antipolo,182
+251,Antipolo City,182
+252,Antrim,136
+253,Antwerp,24
+254,Anyang,72
+255,Anyang-si,72
+256,包头市,32
+257,北海市,76
+258,北京市,61
+259,Aomori,28
+260,Apache Junction,3
+261,Apex,318
+262,Apodaca,210
+263,Apopka,303
+264,Apple Valley,300
+265,Appleton,335
+266,Aptos,300
+267,Arcadia,300
+268,Arcueil,128
+269,Arden,318
+270,Arden Hills,315
+271,Ardiya,189
+272,Ardmore,326
+273,Ardsley,324
+274,Arequipa,229
+275,Arkadelphia,299
+276,Arklow Co Wicklow,140
+277,Arlington,118
+278,Arlington Heights,308
+279,Arnhem,52
+280,Arnold,119
+281,Arroyo Grande,300
+282,Artesia,300
+283,Arvada,301
+284,Arvin,300
+285,Asahikawa,92
+286,Asaka,61
+287,Asan-si,75
+288,Ashburn,332
+289,Asheville,318
+290,Ashford,135
+291,Ashland,311
+292,Ashorne,135
+293,Ashwaubenon,335
+294,Aspen,301
+295,Astana,192
+296,Astoria,324
+297,Atascadero,300
+298,Atascocita,331
+299,Athens,139
+300,Athlone,140
+301,Athol,118
+302,Atizapan de Zaragoza,210
+303,Atlanta,304
+304,Atlantic City,321
+305,Atrium Térreo,36
+306,Atsugi,31
+307,Atwater,300
+308,Auburn,298
+309,Auburn Hills,314
+310,Auckland,130
+311,Augusta,304
+312,Aurora,44
+313,Austell,304
+314,Austin,331
+315,Austintown,325
+316,Avellaneda,9
+317,Aventura,303
+318,Avon,301
+319,AVON LAKE,325
+320,Avondale,3
+321,Awaji,177
+322,Aydin,16
+323,Ayutthaya,31
+324,厦门市,69
+325,Aztec,322
+326,Azumino,172
+327,Azusa,300
+328,Babylon,324
+329,Bacolod City,165
+330,Bacoor,182
+331,Bade City,288
+332,Baden,49
+333,Baden-Baden,97
+334,Badung,21
+335,Baguio City,239
+336,Bahrain,30
+337,Bainbridge Island,334
+338,Baker City,327
+339,Bakersfield,300
+340,Baku,21
+341,Bala Cynwyd,328
+342,Balagtas,14
+343,Balakong,31
+344,Balanga,14
+345,Balcones Heights,331
+346,Baldock,135
+347,Baldwin Harbor,324
+348,Baldwin Park,300
+349,Bali,21
+350,Balikesir,168
+351,Balikpapan,149
+352,Baliwag,14
+353,Ballwin,94
+354,Baltimore,119
+355,Banbridge,136
+356,Banbury,135
+357,"Bandar Kluang, Kluang",92
+358,Bandar Seri Begawan,33
+359,Bandung,144
+360,Banff,39
+361,Bang Kruai,62
+362,Bang Plea,61
+363,Bangalore,149
+364,Bangkae,168
+365,Bangkapi,168
+366,Bangkhen,168
+367,Bangkhorlaem,168
+368,Bangkhuntien,168
+369,Bangkok,168
+370,Bangkok Noi,168
+371,Banglamung,172
+372,Bangluck,168
+373,Bangna,168
+374,Bangor,136
+375,Bangpakong,173
+376,Bangphi,61
+377,Bangrak,168
+378,Banning,300
+379,Banten,143
+380,Barboursville,336
+381,Barcelona,116
+382,Bardstown,311
+383,Barnegat,321
+384,Barnes,135
+385,Barnet,135
+386,Barre,333
+387,Barrie,44
+388,Barrington,308
+389,Barstow,300
+390,Bartlesville,326
+391,Bartlett,308
+392,Bartonville,331
+393,Barueri,36
+394,Basalt,301
+395,Basel,50
+396,Basildon,135
+397,Basingstoke,135
+398,Basking  Ridge,321
+399,Bastrop,331
+400,Batam,152
+401,Batangas,182
+402,Batangas City,182
+403,Batavia,308
+404,Bath,135
+405,Baton Rouge,312
+406,Battle Creek,314
+407,Battle Ground,334
+408,Bauru,36
+409,Baxter,315
+410,Bay City,314
+411,Bay Lake,303
+412,Bay Shore,324
+413,Bayamon,95
+414,Bayan Lepas,1
+415,Bayonne,321
+416,Bayport,324
+417,Bayside,324
+418,Baytown,331
+419,Bayu Senibong,92
+420,BEACHWOOD,325
+421,Beaconsfield,135
+422,Beaufort,329
+423,Beaumont,39
+424,Beaver,328
+425,Beavercreek,325
+426,Beaverton,327
+427,Beckley,336
+428,Bedford,38
+429,Bedford Park,308
+430,Bedminster,321
+431,Begles,9
+432,Beirut,21
+433,Bekasi,144
+434,Bel Air,119
+435,Belfair,334
+436,Belfast,136
+437,Belgrade,317
+438,Bell,300
+439,Bell Gardens,300
+440,Bellaire,331
+441,Belle Isle,303
+442,Belle Vernon,328
+443,Bellerose,324
+444,Belleville,44
+445,Bellevue,320
+446,Bellflower,300
+447,Bellingham,334
+448,Bellmar,321
+449,Belmont,300
+450,Beloit,335
+451,Belton,94
+452,Beltsville,119
+453,Belvidere,308
+454,Bemidji,315
+455,Benbrook,331
+456,Bend,327
+457,Benicia,300
+458,Bennett,301
+459,Bennington,333
+460,Bensenville,308
+461,Benson,3
+462,Benton,299
+463,Bentonville,299
+464,Beppu,75
+465,Berchem,140
+466,Bergen,62
+467,Berkeley,300
+468,Berkshire,135
+469,BERLIN,23
+470,Bern,23
+471,Bernalillo,322
+472,Bernardsville,321
+473,Berwyn,308
+474,Bessemer,298
+475,Bethel,116
+476,Bethel Park,328
+477,Bethesda,119
+478,Bethlehem,304
+479,Bethpage,324
+480,Bettendorf,306
+481,Beverley,135
+482,Beverly,118
+483,Beverly Hills,300
+484,Bexley,325
+485,Bexleyheath,135
+486,Beyoglu,68
+487,Bickerstaffe,135
+488,Biddeford,313
+489,Bideford,135
+490,Biel,23
+491,Bielany Wroclawskie,240
+492,Bielefeld,103
+493,Big Bear Lake,300
+494,Big Flats,324
+495,Big Rapids,314
+496,Bilbao,37
+497,Bilecik,61
+498,Billerica,118
+499,Billings,317
+500,Biloxi,316
+501,Binan,182
+502,Binghamton,324
+503,Bintulu,30
+504,Birch Run,314
+505,Birmingham,135
+506,Birstall,135
+507,Bisbee,3
+508,Bishop,300
+509,Bishops Storford,135
+510,Bishop's Stortford,135
+511,Bismarck,319
+512,Black Mountain,318
+513,Blackburn,135
+514,Blackhawk,301
+515,Blackpool,135
+516,Blacksburg,332
+517,Blaine,315
+518,Blair,320
+519,Blairsville,304
+520,Blasdell,324
+521,Bloomfield,116
+522,Bloomfield Hills,314
+523,Bloomfield Township,314
+524,Bloomingdale,308
+525,Bloomington,308
+526,Bloomsburg,328
+527,Blue Ash,325
+528,Blue Jay,300
+529,Blue Ridge,304
+530,Blue Springs,94
+531,Bluffton,329
+532,Blythe,300
+533,Boardman,325
+534,BOCA DEL RIO VERACRUZ,222
+535,Boca Raton,303
+536,BOCHUM,103
+537,Bodrum,184
+538,Boeblingen,97
+539,Boerne,331
+540,Bogor,144
+541,BOGOTA,88
+542,BOGOTA D.C.,88
+543,BOGOTA DC,88
+544,Bohemia,324
+545,Boise,307
+546,Boldon,135
+547,Bolingbrook,308
+548,Bolling AFB,88
+549,Bolton,44
+550,Bolu,68
+551,Bonaire,304
+552,Bonita,300
+553,Bonita Springs,303
+554,BONN,103
+555,Bonners Ferry,307
+556,Bonney Lake,334
+557,Boone,318
+558,Boonton,321
+559,Bordeaux,9
+560,Bordentown,321
+561,Bossier City,312
+562,Boston,118
+563,Bothell,334
+564,Boucherville,46
+565,Boulder,301
+566,Boulder City,323
+567,Boulogne,9
+568,Bountiful,228
+569,Bourbonnais,308
+570,Bourne,118
+571,Bournemouth,135
+572,Bowie,119
+573,Bowling Green,311
+574,Bowmansville,328
+575,Boyne City,314
+576,Boynton Beach,303
+577,Bozeman,317
+578,Bracknell,135
+579,Bradenton,303
+580,Bradford,135
+581,Braintree,135
+582,Brampton,44
+583,Branchburg,321
+584,Brandon,41
+585,Brandywine,119
+586,Branford,116
+587,Branson,94
+588,Brantford,44
+589,Brasov,9
+590,Bratislava,260
+591,Braunschweig,102
+592,Brawley,300
+593,Bray,10
+594,Brea,300
+595,Breña,236
+596,Breckenridge,301
+597,Brecksville,325
+598,Breda,42
+599,Breezewood,328
+600,BREMEN,99
+601,Bremerton,334
+602,Brenham,331
+603,Brentwood,135
+604,Breukelen,228
+605,Brevard,318
+606,Briarcliff Manor,324
+607,Brick,321
+608,Bridgehampton,324
+609,Bridgend,135
+610,Bridgeport,116
+611,Bridgeton,94
+612,Bridgeville,328
+613,Bridgewater,321
+614,Brierley Hill,135
+615,Brigham City,228
+616,Brighouse,135
+617,Brighton,135
+618,Brisbane,18
+619,Bristol,135
+620,Bristow,332
+621,Brno,93
+622,Broadbeach,18
+623,Broadlands,332
+624,Broadview,308
+625,Broadview Heights,325
+626,Brockton,118
+627,Brockville,44
+628,Broken Arrow,326
+629,Bromley,135
+630,Bronx,324
+631,Bronxville,324
+632,Brookfield,324
+633,Brookhaven,328
+634,Brookings,327
+635,Brookline,118
+636,Brooklyn,324
+637,Brooklyn Center,315
+638,Brooklyn Park,315
+639,Brooks,39
+640,Brooksville,303
+641,Broomall,328
+642,Broomfield,301
+643,Brossard,46
+644,Brou,127
+645,Broughton,135
+646,Broussard,312
+647,Brownsburg,309
+648,Brownstown,314
+649,Brownsville,331
+650,Brownwood,331
+651,Brugges,26
+652,Brunei,23
+653,Brunei Muara District,33
+654,Brunswick,304
+655,Brussels,23
+656,Bryan,331
+657,Bryant,299
+658,Bryn Mawr,328
+659,Bucharest,9
+660,Bucheon,72
+661,Bucheon-si,72
+662,Buckeye,3
+663,Buckhead,304
+664,Buckinghamshire,135
+665,Buda,331
+666,Budapest,142
+667,Buellton,300
+668,Buena Park,300
+669,Buenos Aires,9
+670,Buffalo,315
+671,Buffalo Grove,308
+672,Buford,304
+673,Buies Creek,318
+674,Bukit Mertajam,1
+675,Bullhead City,3
+676,Bulverde,331
+677,Bunkyo-ku,30
+678,Burbank,300
+679,Burgas,28
+680,Burien,334
+681,Burirum,65
+682,Burke,332
+683,Burleson,331
+684,Burlingame,300
+685,Burlington,44
+686,Burnaby,40
+687,Burnsville,315
+688,Burnwell,336
+689,Burpham,135
+690,Burr Ridge,308
+691,Bursa,169
+692,Burtonsville,119
+693,Bury,135
+694,Bury St Edmunds,135
+695,Busan,175
+696,Busan-si,175
+697,Butler,328
+698,Butte,317
+699,Butterworth,1
+700,Buttonwillow,300
+701,Byron,300
+702,Byron Center,314
+703,福州市,69
+704,盘锦市,63
+705,盐城市,66
+706,绵阳市,79
+707,绍兴市,67
+708,秦皇岛,30
+709,珠海市,75
+710,Caba,9
+711,Cabanatuan City,14
+712,Cabazon,300
+713,Cabinteely Dublin,140
+714,Cabo San Lucas,196
+715,Cagayan de Oro,72
+716,Caguas,95
+717,Cainta,182
+718,Cairo,10
+719,Cajamarca,230
+720,Calabasas,300
+721,Calamba City,239
+722,Caledonia,314
+723,Calexico,300
+724,Calgary,39
+725,Calhoun,304
+726,California,119
+727,Calimesa,300
+728,Callao - Lima,236
+729,Callaway,303
+730,Calumet City,308
+731,Camarillo,300
+732,Camas,334
+733,Camberley,135
+734,Cambridge,44
+735,Camby,309
+736,Camden,321
+737,Cameron Highlands,165
+738,Cameron Park,300
+739,Camp Hill,328
+740,Camp Lejenue,318
+741,Camp Verde,3
+742,Campbell,300
+743,Campbell River,40
+744,CAMPECHE,197
+745,Campinas,36
+746,Camrose,39
+747,Can Cun,216
+748,Canakkale,170
+749,Canal Winchester,325
+750,Canandaigua,324
+751,Canastota,324
+752,Canby,327
+753,Cancun,216
+754,Cancun Q Roo,216
+755,Candler,318
+756,Canfield,325
+757,Cankaya,165
+758,Canmore,39
+759,Cannes,133
+760,Cannon AFB,322
+761,CANOGA PARK,300
+762,Canon City,301
+763,Canonsburg,328
+764,Canterbury,135
+765,Canton,304
+766,Canyon,331
+767,Canyon Country,300
+768,Cape Coral,303
+769,Cape Girardeau,94
+770,Capitola,300
+771,Captiva,303
+772,Carbondale,308
+773,Cardiff,135
+774,CAREFREE,3
+775,Carleton Place,44
+776,Carlisle,135
+777,Carlsbad,300
+778,Carmel,300
+779,Carmichael,300
+780,Carnation,334
+781,Carnaxide,61
+782,Carney,119
+783,Carol Stream,308
+784,Carolina,95
+785,Carpinteria,300
+786,Carrollton,304
+787,Carson,300
+788,Carson City,323
+789,Cartersville,304
+790,Cary,308
+791,Casa Grande,3
+792,Casablanca,118
+793,Cascais,61
+794,Cashiers,318
+795,Casper,337
+796,Casselberry,303
+797,Castaic,300
+798,Castle Rock,301
+799,Castle Rocks,301
+800,Castleford,135
+801,Castlegar,40
+802,Castro Valley,300
+803,Cathedral City,300
+804,Catonsville,119
+805,Causeway Bay,86
+806,Cave Creek,3
+807,Cavite City,182
+808,CEBU,1
+809,Cebu City,1
+810,Cedar City,228
+811,Cedar Falls,306
+812,Cedar Hill,331
+813,Cedar Knolls,321
+814,Cedar Park,331
+815,Cedar Rapids,306
+816,Cedarburg,335
+817,Cedarhurst,324
+818,Celaya,205
+819,Celebration,303
+820,Centennial,301
+821,Centereach,324
+822,Centerville,325
+823,Central,86
+824,Central Islip,324
+825,Central Valley,324
+826,Centralia,334
+827,Century City,300
+828,Ceredigion,138
+829,Ceres,300
+830,Cerritos,300
+831,烟台市,71
+832,Chachoengsao,173
+833,Chaguanas,273
+834,Chaing Mai,78
+835,Chaiwan,86
+836,Chalandri,139
+837,Chalfont,328
+838,Chaltham,135
+839,Chambersburg,328
+840,Champaign,308
+841,Champlin,315
+842,Chandler,3
+843,Changhua City,273
+844,Changhua County,273
+845,Changshu,66
+846,Changwon,184
+847,Changwon-si,184
+848,Changzhou,66
+849,Chanhassen,315
+850,Chantilly,332
+851,Chapel Hill,318
+852,Chappaqua,324
+853,Chargrin Falls,325
+854,Charleston,308
+855,Charlotte,318
+856,Charlottesville,332
+857,Charlottetown,45
+858,Chaska,315
+859,Chatan-cho,183
+860,Chatham,135
+861,Chatsworth,300
+862,Chattanooga,160
+863,Chatuchak,168
+864,Chatujak,168
+865,Cheadle,135
+866,Cheektowaga,324
+867,Chehalis,334
+868,Chelan,334
+869,Chelmsford,135
+870,Chelsea,118
+871,Cheltenham,135
+872,Cheney,334
+873,Chennai,160
+874,Cheonan,75
+875,Cheonan-si,75
+876,Cheongju,74
+877,Cheongju-si,74
+878,Cheras,31
+879,Chermside,18
+880,Cherry Hill,321
+881,Chesapeake,332
+882,Cheshire,135
+883,Chessy,128
+884,Chester,135
+885,Chesterfield,135
+886,Chesterfield Township,314
+887,Chestermere,39
+888,Chesterton,309
+889,Chestnut Hill,118
+890,Chevy Chase,119
+891,Cheyenne,337
+892,Chiang Mai,78
+893,Chiangmai,78
+894,Chiayi City,276
+895,Chiba,62
+896,Chicago,308
+897,Chicago Ridge,308
+898,Chichester,135
+899,Chiclayo,235
+900,Chico,300
+901,Chicopee,118
+902,Chigasaki,31
+903,Chihuahua,198
+904,Chikushino,182
+905,Chillan,37
+906,Chillicothe,325
+907,Chilliwack,40
+908,Chimbote,236
+909,Chino,300
+910,Chino Hills,300
+911,Chino Valley,3
+912,Chiryu,29
+913,Chiswell Green,135
+914,Chiswick,135
+915,Chitose,92
+916,Chiyoda-ku,30
+917,Chofu,30
+918,Chomthong,168
+919,Chon Buri,172
+920,Chonburi,172
+921,Choonchun,73
+922,Chorley,135
+923,Chowchilla,300
+924,Christchurch,12
+925,Christiansburg,332
+926,Chtaura,37
+927,Chula Vista,300
+928,Chuncheonsi,73
+929,Chungbuk,74
+930,Chungcheongbuk-do,74
+931,Chungcheongnam-do,75
+932,Chungju-si,74
+933,Chuo,171
+934,Chuo-ku,30
+935,Cicero,308
+936,Cikampek,144
+937,Cilegon,148
+938,Cincinnati,325
+939,Cirebon,148
+940,Cirencester,135
+941,Citrus Heights,300
+942,City of Commerce,300
+943,City of Industry,300
+944,Ciudad de Mexico,202
+945,Ciudad del Carmen,197
+946,Ciudad Juarez,198
+947,Ciudad Obregon,219
+948,Ciudad Victoria,221
+949,Clackamas,327
+950,Claremont,300
+951,Clarendon Hills,308
+952,Clarion,328
+953,Clark,321
+954,Clarkesville,304
+955,Clarks Summit,328
+956,Clarksburg,119
+957,Clarkston,314
+958,Clarksville,309
+959,Clay,324
+960,Clayton,300
+961,Clearbrook,40
+962,Clearfield,228
+963,Clearwater,303
+964,Cleburne,331
+965,Cleckheaton,135
+966,Clementon,321
+967,Clemmons,318
+968,Clemson,329
+969,Clermont,303
+970,Clermont Ferrand,10
+971,Cleveland,304
+972,Cleveland Heights,325
+973,Cleves,325
+974,Clifton,301
+975,Clifton Park,324
+976,Clifton Springs,324
+977,Clinton,306
+978,Clinton Pointe,314
+979,Clinton Township,314
+980,Clive,306
+981,Closter,321
+982,Cloverdale,40
+983,Clovis,300
+984,Cluj,247
+985,Cluj-Napoca,247
+986,Clute,331
+987,Clyde,325
+988,Coacalco,210
+989,Coachella,300
+990,Coalinga,300
+991,Coatzacoalcos,222
+992,Cobham,135
+993,Cochrane,39
+994,Cockermouth,135
+995,Cockeysville,119
+996,Cocoa Beach,303
+997,Coconut Creek,303
+998,Coconut Grove,303
+999,Cody,337
+1000,Coeur d'Alene,307
+1001,Cohasset,118
+1002,Colby,310
+1003,Colchester,135
+1004,Cold Spring,311
+1005,Coleraine,136
+1006,Colfax,300
+1007,Colima,201
+1008,College Park,119
+1009,College Station,331
+1010,Collegeville,328
+1011,Colleyville,331
+1012,Collierville,160
+1013,Collingwood,44
+1014,Collinsville,308
+1015,Colma,300
+1016,Cologne,103
+1017,Colonial Heights,332
+1018,Colorado Springs,301
+1019,Colton,300
+1020,Columbia,119
+1021,Columbia NW,329
+1022,Columbus,304
+1023,Colville,334
+1024,Commack,324
+1025,Commerce,300
+1026,Commerce City,301
+1027,Commerce Township,314
+1028,Compton,300
+1029,Concepcion,37
+1030,Concord,44
+1031,Condado,95
+1032,Conifer,301
+1033,Conroe,331
+1034,Conshohocken,328
+1035,Constanta,116
+1036,Converse,331
+1037,Conway,299
+1038,Conyers,304
+1039,Cookeville,160
+1040,Coolidge,3
+1041,Coon Rapids,315
+1042,Coos Bay,327
+1043,Copenhagen,32
+1044,Copiague,324
+1045,Coppell,331
+1046,Copper Mountain,301
+1047,Copperas Cove,331
+1048,Coquelles,131
+1049,Coquitlam,40
+1050,Coral Gables,303
+1051,Coral Springs,303
+1052,Coralville,306
+1053,Cordoba,13
+1054,Cordova,160
+1055,Corinth,331
+1056,Cork,10
+1057,Cork City,10
+1058,Corley,135
+1059,Cornelia,304
+1060,Cornelias,327
+1061,Cornelius,318
+1062,Corning,300
+1063,Cornwall,44
+1064,Corolla,318
+1065,Corona,300
+1066,Corona Del Mar,300
+1067,Coronado,300
+1068,Corpus Christi,331
+1069,Corte Madera,300
+1070,Cortez,301
+1071,Cortlandt Manor,324
+1072,Corvallis,327
+1073,Cos Cob,116
+1074,Costa Mesa,300
+1075,Cotati,300
+1076,Cottage Grove,315
+1077,Cottonwood,3
+1078,Couer d'Alene,307
+1079,Council BLuffs,306
+1080,Countryside,308
+1081,Courbevoie,128
+1082,Courtenay,40
+1083,Coventry,135
+1084,Covina,300
+1085,Covingtion,334
+1086,Covington,311
+1087,COZUMEL,216
+1088,Craig,301
+1089,Craigavon,136
+1090,Craiova,248
+1091,Cranberry Township,328
+1092,Cranbrook,40
+1093,Cranbury,321
+1094,Cranford,321
+1095,Cranston,152
+1096,Crawley,135
+1097,Crescent City,300
+1098,Crestview,303
+1099,Crestview Hills,311
+1100,Crestwood,308
+1101,Crete,11
+1102,Creve Coeur,94
+1103,Crewe,135
+1104,Crosby,331
+1105,Cross Roads,331
+1106,Crossville,160
+1107,Crowley,331
+1108,Crown Point,309
+1109,Croydon,135
+1110,Crystal,315
+1111,Crystal Lake,308
+1112,Cuautitlan Izcalli,210
+1113,Cuernavaca,209
+1114,Culiacan,217
+1115,Cullman,298
+1116,Cullowhee,318
+1117,Culpeper,332
+1118,Culver City,300
+1119,Cumming,304
+1120,Cupertino,300
+1121,Cusco,231
+1122,Cutler Bay,303
+1123,Cuyahoga Falls,325
+1124,Cwmbran,138
+1125,石家庄,30
+1126,Cyberjaya,168
+1127,Cypress,300
+1128,Dacula,304
+1129,Daegu,176
+1130,Daegu Gwang`Yeogsi,176
+1131,Daegu-si,176
+1132,Daejeon,179
+1133,DaejeonDaejeon,179
+1134,Daejeon-si,179
+1135,Dagupan,92
+1136,Dahlonega,304
+1137,Daisen,15
+1138,Daito,176
+1139,Dale City,332
+1140,Dallas,304
+1141,Dalton,304
+1142,Daly City,300
+1143,Damascus,119
+1144,DAMMAM,164
+1145,Dana Point,300
+1146,Danbury,116
+1147,Dangjin,75
+1148,Danvers,118
+1149,Danville,300
+1150,Daphne,298
+1151,Dardenne,94
+1152,Darien,116
+1153,Darlington,135
+1154,DARMSTADT,100
+1155,Darnestown,119
+1156,Dartmouth,38
+1157,Dasmarinas,182
+1158,Davao,15
+1159,Davao City,15
+1160,Davenport,303
+1161,Davidson,318
+1162,Davie,303
+1163,Davis,300
+1164,Davison,314
+1165,Dawson Creek,40
+1166,Dawsonville,304
+1167,Dayton,323
+1168,Daytona Beach,303
+1169,Daytona Beach Shores,303
+1170,Dayuan Township,288
+1171,Dayville,116
+1172,Dazaifu,182
+1173,De Meern,228
+1174,De Pere,335
+1175,Deadwood,330
+1176,Deal,135
+1177,Dearborn,314
+1178,Dearborn Heights,314
+1179,Decatur,298
+1180,Dedham,118
+1181,Deer Park,308
+1182,Deerfield,308
+1183,Deerfield Beach,303
+1184,Dekalb,308
+1185,Del Mar,300
+1186,Del Rey Oaks,300
+1187,Del Rio,331
+1188,Delafield,335
+1189,Deland,303
+1190,Delano,300
+1191,Delavan,335
+1192,Delaware,325
+1193,Delft,57
+1194,Delhi,157
+1195,Delran,321
+1196,Delray Beach,303
+1197,Delson,46
+1198,Delta,40
+1199,Deming,322
+1200,Den Haag,57
+1201,Denham Springs,312
+1202,Denizli,172
+1203,Denpasar,21
+1204,Denton,331
+1205,Denver,301
+1206,Denville,321
+1207,Depew,324
+1208,Depok,144
+1209,Deptford,321
+1210,Derby,135
+1211,Des Moines,306
+1212,DES PERES,94
+1213,Des Plaines,308
+1214,Desert Hot Springs,300
+1215,DeSoto,331
+1216,Destin,303
+1217,Detroit,314
+1218,Deventer,227
+1219,Devon,328
+1220,DF,202
+1221,Diamond Bar,300
+1222,D'Iberville,316
+1223,Dickinson,319
+1224,Dickson City,328
+1225,Dieppe,42
+1226,Dijon,126
+1227,Dillon,301
+1228,Dingestow,135
+1229,Dinuba,300
+1230,DISTRITO FEDERAL,202
+1231,Dixon,300
+1232,Diyarbakir,63
+1233,DKI Jakarta,146
+1234,Dobbs Ferry,324
+1235,Doha,246
+1236,Dollard-des-ormeaux,46
+1237,Don Muang,168
+1238,Doncaster,135
+1239,Dongducheon,72
+1240,Donghae-si,73
+1241,Dorado,95
+1242,Doral,303
+1243,Dorchester,118
+1244,Dordrecht,57
+1245,DORTMUND,103
+1246,Dorval,46
+1247,Doswell,332
+1248,Dothan,298
+1249,Douglas,10
+1250,Douglasville,304
+1251,Douliu City,296
+1252,Dover,302
+1253,Downers Grove,308
+1254,Downey,300
+1255,Doylestown,328
+1256,Drammen,165
+1257,Draper,228
+1258,Dresden,106
+1259,Dresher,328
+1260,Drogheda,140
+1261,Dryden,44
+1262,Duarte,300
+1263,Dubai,4
+1264,Dublin,10
+1265,Dublin 1,140
+1266,Dublin 2,10
+1267,Dubuque,306
+1268,Dudley,135
+1269,DUESSELDORF,103
+1270,DUISBURG,103
+1271,Dukyang,72
+1272,Dulles,332
+1273,Duluth,304
+1274,Dumbarton,137
+1275,Dumfermline,137
+1276,Dumfries,137
+1277,Dumont,301
+1278,Duncan,40
+1279,Duncanville,331
+1280,Dundas,44
+1281,Dundee,137
+1282,Dunedin,130
+1283,Dunfermline,137
+1284,Dunkirk,119
+1285,Dunwoody,304
+1286,DuPont,334
+1287,Durango,203
+1288,Durham,135
+1289,Dusit,168
+1290,Duvall,334
+1291,Dyer,309
+1292,E Wenatchee,334
+1293,舟山市,67
+1294,衡阳市,74
+1295,衢州市,67
+1296,诸暨市,67
+1297,광주,178
+1298,贵阳,80
+1299,贵阳市,80
+1300,连云港,66
+1301,连云港市,66
+1302,阳江市,75
+1303,邯郸,30
+1304,邢台市,30
+1305,肇庆市,75
+1306,银川市,85
+1307,苏州市,66
+1308,西安市,82
+1309,西宁市,84
+1310,襄樊市,73
+1311,襄阳市,73
+1312,高邮市,66
+1313,黄石市,73
+1314,马鞍山,68
+1315,강원도,73
+1316,부산,175
+1317,金华市,67
+1318,重庆市,78
+1319,长春市,64
+1320,长沙市,74
+1321,镇江市,66
+1322,青岛市,71
+1323,营口市,63
+1324,萧山市,67
+1325,靖江市,66
+1326,龙岩市,69
+1327,경기,72
+1328,경기도,72
+1329,경북,183
+1330,경상남도,184
+1331,경상북도,183
+1332,Eagan,315
+1333,Eagle,301
+1334,Eagle Mountain,228
+1335,Eagle River,297
+1336,Ealing,135
+1337,Easley,329
+1338,East Amherst,324
+1339,East Boston,118
+1340,East Brunswick,321
+1341,East Grand Rapids,314
+1342,east greenbush,324
+1343,East Greenwich,152
+1344,East Grinstead,135
+1345,East Hampton,324
+1346,East Hanover,321
+1347,East Jakarta,148
+1348,East Kilbride,137
+1349,East Lansing,314
+1350,East Longmeadow,118
+1351,East Lyme,116
+1352,East Norriton,328
+1353,East Northport,324
+1354,East Peoria,308
+1355,East Point,304
+1356,East Ridgefield,321
+1357,East Rutherford,321
+1358,East Setauket,324
+1359,East Wenatchee,334
+1360,Eastbourne,135
+1361,Easton,118
+1362,Eastvale,300
+1363,Eatontown,321
+1364,Eau Claire,335
+1365,Ebina,31
+1366,Ecatepec,210
+1367,"Ecatepec, Edo. de Mex.",210
+1368,Eden Prairie,315
+1369,Edgbaston,135
+1370,Edgemont,328
+1371,Edgeware,135
+1372,Edgewater,301
+1373,Edgewood,322
+1374,Edina,315
+1375,Edinburg,331
+1376,Edinburgh,135
+1377,Edingurgh,137
+1378,Edison,321
+1379,Edmond,326
+1380,Edmonds,334
+1381,Edmonton,39
+1382,EDO MEX,210
+1383,Edo Mexico,210
+1384,Edogawa-ku,30
+1385,Edwards,300
+1386,Edwardsville,308
+1387,郑州市,72
+1388,Effingham,308
+1389,Egaila,120
+1390,Egella,190
+1391,Eglin AFB,303
+1392,Eindhoven,42
+1393,Ekaterinburg,257
+1394,El Cajon,300
+1395,El Centro,300
+1396,El Cerrito,300
+1397,El Dorado Hills,300
+1398,El Jebel,301
+1399,El Monte,300
+1400,El Paso,331
+1401,El Segundo,300
+1402,El Sobrante,300
+1403,Elburn,308
+1404,Eldersburg,119
+1405,Elgin,137
+1406,Elizabeth,301
+1407,Elizabeth City,318
+1408,Elizabethtown,311
+1409,Elk Grove,300
+1410,Elk Grove Village,308
+1411,Elk River,315
+1412,ELKHART,309
+1413,Elko,323
+1414,Elkridge,119
+1415,Ellensburg,334
+1416,Ellenton,303
+1417,Ellicott City,119
+1418,Ellijay,304
+1419,Elmhurst,308
+1420,Elmira,324
+1421,ELMONT,324
+1422,Elstree,135
+1423,ELVERSON,328
+1424,Ely,135
+1425,Elyria,325
+1426,Emeryville,300
+1427,Emmett,307
+1428,Emporia,310
+1429,Emsworth,135
+1430,Ena,63
+1431,Encinitas,300
+1432,Encino,300
+1433,Enfield,38
+1434,Englewood,301
+1435,Enid,326
+1436,Ennis,331
+1437,Enola,328
+1438,Enschede,227
+1439,Ensenada,195
+1440,Enumclaw,334
+1441,대구,176
+1442,대전,179
+1443,Ephrata,328
+1444,Epping,135
+1445,Epsom,135
+1446,Erfurt,107
+1447,Erie,301
+1448,Erlangen,98
+1449,Escalon,300
+1450,Escondido,300
+1451,Eskisehir,175
+1452,芜湖市,68
+1453,蚌埠市,68
+1454,Espoo,124
+1455,Essen,103
+1456,Essex,135
+1457,Esslingen,97
+1458,Estado de México,210
+1459,Estado de Mexico,210
+1460,Estero,303
+1461,Estes Park,301
+1462,Etobicoke,44
+1463,Eugene,327
+1464,Euless,331
+1465,Eureka,300
+1466,Evans,304
+1467,Evanston,308
+1468,Evansville,309
+1469,Everett,118
+1470,Evergreen,301
+1471,Evesham,321
+1472,Ewa Beach,305
+1473,Excelsior,315
+1474,Exeter,135
+1475,Exmouth,135
+1476,Exton,328
+1477,莆田市,69
+1478,鞍山市,63
+1479,Ezeiza,9
+1480,Fair Oaks,300
+1481,Fairbanks,297
+1482,Fairborn,325
+1483,Fairburn,304
+1484,Fairchild AFB,334
+1485,Fairfax,332
+1486,Fairfield,300
+1487,Fairlawn,321
+1488,Fairport,324
+1489,Fairview,327
+1490,Fairview Heights,308
+1491,Fairview Park,325
+1492,Fajardo,95
+1493,Falcon,301
+1494,Falkirk,137
+1495,Fallbrook,300
+1496,Fallon,323
+1497,Falls Church,332
+1498,Falmouth,118
+1499,Fargo,319
+1500,Farmingdale,324
+1501,Farmington,116
+1502,Farmington Hills,314
+1503,Farnborough,135
+1504,Farnham,135
+1505,Farragut,160
+1506,Farwaniya,187
+1507,Fayette,328
+1508,Fayetteville,299
+1509,Feasterville,328
+1510,Federal Heights,301
+1511,Federal Way,334
+1512,Feltham,135
+1513,Fenouillet,130
+1514,Fenton,314
+1515,Ferguson,94
+1516,Fernandina Beach,303
+1517,Ferndale,334
+1518,Fernie,40
+1519,Fernley,323
+1520,Fife,334
+1521,Fillmore,300
+1522,Findlay,325
+1523,Firestone,301
+1524,Fishers,309
+1525,Fishkill,324
+1526,Fitchburg,335
+1527,Flagstaff,3
+1528,Flat Rock,318
+1529,Fleet,135
+1530,Flemington,321
+1531,Fletcher,318
+1532,Flint,314
+1533,Florence,298
+1534,Florham Park,321
+1535,Florida City,303
+1536,Florissant,94
+1537,Flossmoor,308
+1538,Flourtown,328
+1539,Flower Mound,331
+1540,Flowery Branch,304
+1541,Flowood,316
+1542,Flushing,324
+1543,Foley,298
+1544,Folkestone,135
+1545,Folsom,300
+1546,Fond du Lac,335
+1547,Fontana,300
+1548,Foothill Ranch,300
+1549,Forest City,318
+1550,Forest Grove,327
+1551,Forest Hill,331
+1552,Forest Hills,324
+1553,Forest Lake,315
+1554,Forest Park,308
+1555,Forestville,119
+1556,Forked River,321
+1557,Forney,331
+1558,Fort Belvoir,332
+1559,Fort Benning,304
+1560,Fort Bragg,300
+1561,Fort Campbell,311
+1562,Fort Carson,301
+1563,Fort Collins,301
+1564,Fort Dodge,306
+1565,Fort Drum,324
+1566,Fort Eustis,332
+1567,Fort Frances,44
+1568,Fort Gordon,304
+1569,Fort Gratiot,314
+1570,Fort Huachuca,3
+1571,Fort Irwin,300
+1572,Fort Knox,311
+1573,Fort Lauderdale,303
+1574,Fort Leavenworth,310
+1575,Fort Lee,321
+1576,Fort Lewis,334
+1577,Fort Lupton,301
+1578,Fort Madison,306
+1579,Fort McMurray,39
+1580,Fort Meade,119
+1581,Fort Mill,329
+1582,Fort Mitchell,311
+1583,Fort Mohave,3
+1584,Fort Morgan,301
+1585,Fort Myer,332
+1586,Fort Myers,303
+1587,Fort Richardson,297
+1588,Fort Sam Houston,331
+1589,Fort Saskatchewan,39
+1590,Fort Sill,326
+1591,Fort Smith,299
+1592,Fort St John,40
+1593,Fort Union,228
+1594,Fort Wainwright,297
+1595,Fort Walton Beach,303
+1596,Fort Washington,119
+1597,Fort Wayne,309
+1598,Fort Worth,331
+1599,Fortress Hill,86
+1600,Fortuna,300
+1601,Foster City,300
+1602,Fountain,301
+1603,Fountain City,160
+1604,Fountain Hills,3
+1605,Fountain Valley,300
+1606,Fowler,300
+1607,Fox Point,335
+1608,Fox River Grove,308
+1609,Fraddon,135
+1610,Framingham,118
+1611,Frankfort,308
+1612,Frankfurt,100
+1613,FRANKFURT AM MAIN,100
+1614,Franklin,309
+1615,Franklin Lakes,321
+1616,Franklin Square,324
+1617,Franklin TWP,321
+1618,Fraser,301
+1619,Frederick,301
+1620,Fredericksburg,332
+1621,Frederickson,334
+1622,Fredericton,42
+1623,Frederiksberg,32
+1624,Fredonia,324
+1625,Fredricton,42
+1626,Freedom,300
+1627,Freehold,321
+1628,Freeport,313
+1629,FREIBURG,97
+1630,Fremont,300
+1631,Frenchtown Township,314
+1632,Fresh Meadows,324
+1633,Fresno,300
+1634,Fribourg,51
+1635,Fridley,315
+1636,Friendswood,331
+1637,Frisco,301
+1638,Front Royal,332
+1639,Frostburg,119
+1640,Ft Benning,304
+1641,Ft Collins,301
+1642,Ft Lauderdale,303
+1643,Ft Myers,303
+1644,Ft Wayne,309
+1645,Ft Worth,331
+1646,Ft. Benning,304
+1647,Ft. Bliss,331
+1648,Ft. Collins,301
+1649,Ft. Irwin,300
+1650,Ft. Lauderdale,303
+1651,Ft. Leonard Wood,94
+1652,Ft. Mill,329
+1653,Ft. Polk,312
+1654,Ft. Riley,310
+1655,Ft. Smith,299
+1656,Ft. Wayne,309
+1657,Ft. Worth,331
+1658,Fuchu,30
+1659,Fuchu-cho,68
+1660,Fujairah,5
+1661,Fuji,64
+1662,Fujieda,64
+1663,Fujimi,61
+1664,Fujinimo,61
+1665,Fujinomiya,64
+1666,Fujisawa,31
+1667,Fujiyoshida,171
+1668,Fukui,124
+1669,Fukukoka,182
+1670,Fukuoka,182
+1671,Fukushima,1
+1672,Fukutsu,182
+1673,Fukuyama,68
+1674,Fullerton,300
+1675,Fulshear,331
+1676,Fultondale,298
+1677,Funabashi,62
+1678,Fuquay-Varina,318
+1679,Fuso-cho,29
+1680,Fussa,30
+1681,Futtsu,62
+1682,Gadsden,298
+1683,Gaffney,329
+1684,Gahanna,325
+1685,Gainesville,303
+1686,Gainsville,304
+1687,Gaithersburg,119
+1688,Galesburg,308
+1689,Gallatin,160
+1690,Galloway,321
+1691,Gallup,322
+1692,Galveston,331
+1693,Galway,10
+1694,Gambrills,119
+1695,Gangneung,73
+1696,Gangwon,73
+1697,Garden City,307
+1698,Garden Grove,300
+1699,Gardena,300
+1700,Gardendale,298
+1701,Gardermoen,14
+1702,Gardnerville,323
+1703,Garfield Heights,325
+1704,Garland,331
+1705,Garner,318
+1706,Gas City,309
+1707,Gastonia,318
+1708,Gateshead,135
+1709,Gatineau,46
+1710,Gatlinburg,160
+1711,Gaylord,314
+1712,Gaziantep,176
+1713,Gdańsk,243
+1714,Gdynia,243
+1715,General Santos,92
+1716,General Trias Cavite,182
+1717,Geneseo,324
+1718,Geneva,308
+1719,Geneve,52
+1720,Gent,26
+1721,Genting Highland,165
+1722,Genting Highlands,165
+1723,Geoje-si,184
+1724,Geonggi-do,72
+1725,George Town,44
+1726,Georgetown,1
+1727,Germantown,119
+1728,Gettysburg,328
+1729,Gibsonia,328
+1730,Gibsons,40
+1731,Gifu,63
+1732,Gig Harbor,334
+1733,"Giheung-gu,Yongin",72
+1734,Gilbert,3
+1735,Gillette,321
+1736,Gilroy,300
+1737,Gimhae,184
+1738,Gimhae-si,184
+1739,Gimpo,72
+1740,Gimpo-si,72
+1741,Ginowan,183
+1742,Gladstone,94
+1743,Glamorgan,138
+1744,Glasgow,137
+1745,Glastonbury,116
+1746,Glen Allen,332
+1747,Glen Burnie,119
+1748,Glen Cove,324
+1749,Glen Ellyn,308
+1750,Glen Mills,328
+1751,Glen Ridge,321
+1752,Glen Rock,321
+1753,Glencoe,308
+1754,Glendale,3
+1755,Glendale Heights,308
+1756,Glendora,300
+1757,Glenmont,324
+1758,Glenpool,326
+1759,Glenview,308
+1760,Glenville,324
+1761,Glenwood Springs,301
+1762,Gloucester,44
+1763,Gloucester Township,321
+1764,Gloucestershire,135
+1765,Glyfada,139
+1766,Gold Canyon,3
+1767,Gold Coast,18
+1768,Gold River,300
+1769,Golden,301
+1770,Golden Valley,315
+1771,Goldsboro,318
+1772,Goleta,300
+1773,Gomez Palacio,203
+1774,Gongju,75
+1775,Gonzales,300
+1776,Goodletsville,160
+1777,Goodyear,3
+1778,Goshen,309
+1779,Goshogawara,28
+1780,Gosung-gu,73
+1781,Gotemba,64
+1782,Gothenburg,131
+1783,Goyang,72
+1784,Goyangsi,72
+1785,Goyang-si,72
+1786,Goyang-si Gyeonggi-do,72
+1787,Grafenwohr,98
+1788,Grafton,332
+1789,Graham,334
+1790,Granada Hills,300
+1791,Granbury,331
+1792,Granby,301
+1793,Grand Blanc,314
+1794,Grand Chute,335
+1795,Grand Forks,319
+1796,Grand Haven,314
+1797,Grand Island,320
+1798,Grand Junction,301
+1799,Grand Prairie,39
+1800,Grand Rapids,314
+1801,Grande Prairie,39
+1802,GRANDVIEW,94
+1803,Grandville,314
+1804,Granger,309
+1805,Granite Bay,300
+1806,Grantham,135
+1807,Grants Pass,327
+1808,Grapevine,331
+1809,Grass Valley,300
+1810,Gray,304
+1811,Grayslake,308
+1812,Great Falls,317
+1813,Great Neck,324
+1814,Great Yarmouth,135
+1815,Greece,324
+1816,Greeley,301
+1817,Green,325
+1818,Green Bay,335
+1819,Green Brook,321
+1820,Green Valley,3
+1821,Greenacres,303
+1822,Greenbelt,119
+1823,Greenbrae,300
+1824,Greencastle,309
+1825,Greendale,335
+1826,Greenfield,309
+1827,Greenhithe,135
+1828,Greenhithie,135
+1829,Greenland,226
+1830,Greensboro,318
+1831,Greensburg,328
+1832,Greenvale,324
+1833,Greenville,302
+1834,Greenwich,116
+1835,Greenwood,309
+1836,Greenwood Village,301
+1837,Greer,329
+1838,Grenoble,134
+1839,Gresham,327
+1840,Gretna,312
+1841,Greve,110
+1842,Gridley,300
+1843,GRIFFIN,304
+1844,Grimsby,44
+1845,Groningen,225
+1846,Grosse Ile,314
+1847,Grosse Pointe,314
+1848,Groton,116
+1849,Grove City,325
+1850,Grover Beach,300
+1851,Guachipelin,90
+1852,Guadalajara,207
+1853,Guadalupe,212
+1854,Guanajuato,205
+1855,Guarulhos,36
+1856,Guatemala,141
+1857,Guatemala City,141
+1858,Guaynabo,95
+1859,Gueishan Township,288
+1860,Guelph,44
+1861,Guerneville,300
+1862,Guiguinto,14
+1863,Guilderland,324
+1864,Guildford,135
+1865,Gulf Breeze,303
+1866,Gulf Shores,298
+1867,Gulfport,316
+1868,Gumi,183
+1869,Gumi-si,183
+1870,Gunnison,301
+1871,Gunpo,72
+1872,Gunsan,76
+1873,Gurgaon,157
+1874,Guri,72
+1875,Gurnee,308
+1876,Gustine,300
+1877,Gwacheon,72
+1878,Gwagju,178
+1879,Gwang ju,178
+1880,Gwangju,178
+1881,Gwangju-si,178
+1882,Gwangmyeong,72
+1883,Gwangmyeong-si,72
+1884,Gwangyang,77
+1885,GYEONBUK,183
+1886,GYEONGGI,72
+1887,Gyeonggido,61
+1888,Gyeonggi-do,72
+1889,Gyeongju,183
+1890,Gyeongju-si,183
+1891,Gyeongnam,184
+1892,Gyeongsangbukdo,183
+1893,Gyeongsangbuk-do,183
+1894,Gyeongsan-si,183
+1895,Hà Nội,338
+1896,Haarlem,226
+1897,Hachinohe,28
+1898,Hachioji,30
+1899,Hacienda Heights,300
+1900,Hackensack,321
+1901,Hackettstown,321
+1902,Hadano,31
+1903,Haddonfield,321
+1904,Hadley,118
+1905,Haebaru-cho,183
+1906,Haga-machi,62
+1907,Hagerstown,119
+1908,Hailey,307
+1909,Hailsham,135
+1910,Hainesville,308
+1911,Hakodate,92
+1912,Hales Corners,335
+1913,Half Moon Bay,300
+1914,Halifax,38
+1915,Hallandale Beach,303
+1916,Haltom City,331
+1917,Hama,71
+1918,Hamamatsu,64
+1919,Hamburg,101
+1920,Hamden,116
+1921,Hamilton,44
+1922,HAMMERSMITH,135
+1923,Hammond,309
+1924,Hammonton,321
+1925,Hampshire,135
+1926,Hampsire,135
+1927,Hampton,135
+1928,Hampton Bays,324
+1929,Hanam-si,72
+1930,Hanford,300
+1931,Hangzhou,67
+1932,"Hanley, Stoke-on-Trent",135
+1933,Hannacroix,324
+1934,Hanno,61
+1935,Hannover,102
+1936,Hanover,118
+1937,Hanover Park,308
+1938,Hants,135
+1939,Hanyu,61
+1940,Happy Valley,327
+1941,Harahan,312
+1942,Harbor City,300
+1943,Harker Heights,331
+1944,Harlingen,331
+1945,Harlow,135
+1946,Harmelen,228
+1947,Harper Woods,314
+1948,Harriman,160
+1949,Harrisburg,318
+1950,Harrison,325
+1951,Harrisonburg,332
+1952,Harrisonville,94
+1953,Harrogate,135
+1954,Harrow,135
+1955,Hartford,116
+1956,Hartsdale,324
+1957,Harvey,312
+1958,Harwich,118
+1959,Harwood Heights,308
+1960,Hasbrouck Heights,321
+1961,Hashima,63
+1962,Hastings,315
+1963,Hastings on Hudson,324
+1964,Hasuda,61
+1965,Hatay,65
+1966,Hatsukaichi,68
+1967,Hattiesburg,316
+1968,Hatyai,270
+1969,Hauppauge,324
+1970,Haverhill,118
+1971,Haverton,328
+1972,Havertown,328
+1973,Hawaiian Gardens,300
+1974,Hawalli,188
+1975,Hawally,188
+1976,Hawthorne,300
+1977,Hayama-machi,31
+1978,Hayden,307
+1979,Hayes,135
+1980,Hayesville,318
+1981,Haymarket,332
+1982,Hays,310
+1983,Hayward,300
+1984,Haywards Heath,135
+1985,Hazelwood,94
+1986,Hazmieh,21
+1987,Headington,135
+1988,Healdsburg,300
+1989,HEATH,325
+1990,Heathrow,135
+1991,Heber City,228
+1992,Hebron,311
+1993,HEIDELBERG,97
+1994,HEILBRONN,97
+1995,Helena,317
+1996,Hellertown,328
+1997,Helotes,331
+1998,Helsinki,124
+1999,Hemel Hempstead,135
+2000,Hemet,300
+2001,Henderson,323
+2002,Hendersonville,318
+2003,Hengchun Township,287
+2004,Henley-on-Thames,135
+2005,Henrico,332
+2006,Henrietta,324
+2007,Heraklion,11
+2008,Hercules,300
+2009,Hereford,135
+2010,Hermiston,327
+2011,Hermitage,328
+2012,Hermosa Beach,300
+2013,Hermosillo,219
+2014,Hernando,316
+2015,Herndon,332
+2016,Hershey,328
+2017,Hertford,135
+2018,Hertfordshire,135
+2019,Hertforshire,135
+2020,Hesperia,300
+2021,Hewlett,324
+2022,Hexham,135
+2023,Hghlands Ranch,301
+2024,Hialeah,303
+2025,Hiawassee,304
+2026,Hickory,318
+2027,Hickory Creek,331
+2028,Hicksville,324
+2029,Hidaka,61
+2030,Higashihiroshima,68
+2031,Higashimatsuyama,61
+2032,Higashiosaka,176
+2033,Higashiura-cho,29
+2034,High Point,318
+2035,High Wycombe,135
+2036,Highland,300
+2037,Highland Heights,311
+2038,Highland Park,308
+2039,Highlands Ranch,301
+2040,Highspire,328
+2041,Highwood,308
+2042,Higley,3
+2043,Hikone,174
+2044,Hilliard,325
+2045,Hillsboro,327
+2046,Hillsborough,321
+2047,Hillsdale,321
+2048,Hillside,308
+2049,Hilo,305
+2050,Hilton Head,329
+2051,Hilversum,226
+2052,Himeji,177
+2053,Hinesville,304
+2054,Hingham,118
+2055,Hino,30
+2056,Hinode-machi,30
+2057,Hinsdale,308
+2058,Hinton,39
+2059,Hirakata,176
+2060,Hiram,304
+2061,Hiratsuka,31
+2062,Hirosaki,28
+2063,Hiroshima,68
+2064,Hisai,173
+2065,Hitachi,167
+2066,Hitachinaka,167
+2067,Hitchin,135
+2068,Hixson,160
+2069,Ho Chi Minh,54
+2070,Hobbs,322
+2071,Hoboken,321
+2072,Hockessin,302
+2073,Hoffman Estates,308
+2074,Holladay,228
+2075,Holland,314
+2076,Hollister,300
+2077,Holly Springs,318
+2078,Hollywood,300
+2079,Holyoke,118
+2080,Homer,297
+2081,Homestead,303
+2082,Homewood,298
+2083,Hong Kong,86
+2084,Honolulu,305
+2085,Hood River,327
+2086,Hoover,298
+2087,Hopewell,332
+2088,Hopkins,315
+2089,Hopkinsville,311
+2090,Hopkinton,118
+2091,Horn Lake,316
+2092,Hornchurch,135
+2093,Horsham,328
+2094,Horwich,135
+2095,Hot Springs,299
+2096,Houma,312
+2097,Hounslow,135
+2098,Houslow,135
+2099,Houston,331
+2100,Hove,135
+2101,Howard Beach,324
+2102,Howell,314
+2103,Howth,140
+2104,Hsinchu City,278
+2105,Hua Hin,268
+2106,Hualien City,280
+2107,Hualien County,280
+2108,Huancayo,233
+2109,Huay Kwang,168
+2110,Huaykwang,168
+2111,Hudson,325
+2112,Hudsonville,314
+2113,Huixquilucan,210
+2114,Hull,46
+2115,Humble,331
+2116,Hungerford,135
+2117,Huntersville,318
+2118,Huntingdon,135
+2119,Huntingdon Valley,328
+2120,Huntington,324
+2121,Huntington Beach,300
+2122,Huntington Park,300
+2123,Huntington Station,324
+2124,HUNTLEY,308
+2125,Huntsville,298
+2126,Hurst,331
+2127,Hutchinson,310
+2128,Hutto,331
+2129,Hwaseong,72
+2130,Hwaseong-si,72
+2131,Hwasung,72
+2132,Hwasung-si,72
+2133,Hyannis,118
+2134,Hyattsville,119
+2135,Hyde,135
+2136,Hyderabad,156
+2137,서울,61
+2138,충청남도,75
+2139,인천,177
+2140,Iasi City,249
+2141,Ibaraki,176
+2142,Ica,232
+2143,Icheon,72
+2144,Ichihara,62
+2145,Ichikawa,62
+2146,Ichinomiya,29
+2147,Idaho Falls,307
+2148,Idaho Springs,301
+2149,Ikeda,176
+2150,Ikoma,178
+2151,Iksan,76
+2152,ILE PERROT,46
+2153,Ilford,135
+2154,Iloilo,239
+2155,Iloilo City,165
+2156,Ilsan,72
+2157,Imabari,180
+2158,Imus,182
+2159,Inagi,30
+2160,Inazawa,29
+2161,Incheon,177
+2162,Incline Village,323
+2163,Independence,311
+2164,Indialantic,303
+2165,Indian Harbor Beach,303
+2166,Indian Trail,318
+2167,Indiana,328
+2168,Indianapolis,309
+2169,Indio,300
+2170,Inglewood,300
+2171,INMAN,329
+2172,Innisfil,44
+2173,Instanbul - Asya,68
+2174,Inver Grove Heights,315
+2175,Invercargill,130
+2176,Inverness,137
+2177,Inzai,62
+2178,Iowa City,306
+2179,Ipoh,167
+2180,Ipswich,135
+2181,Irapuato,205
+2182,Irbid,163
+2183,Irmo,329
+2184,Irondequoit,324
+2185,Iruma,61
+2186,Irvine,300
+2187,Irving,331
+2188,Irwin,328
+2189,Irwindale,300
+2190,울산,65
+2191,Ise,173
+2192,Isehara,31
+2193,Iselin,321
+2194,Isesaki,168
+2195,Ishigaki,183
+2196,Ishikawa,170
+2197,Ishinomaki,164
+2198,Isla Vista,300
+2199,Islamorada,303
+2200,Island Park,324
+2201,Islandia,324
+2202,Isle of Man,135
+2203,Islip,324
+2204,Isparta,66
+2205,Issaquah,334
+2206,Istanbul,68
+2207,Istanbul - Asya,68
+2208,Istanbul - Avrupa,68
+2209,Itabashi-ku,30
+2210,Itami,177
+2211,Itasca,308
+2212,Ithaca,324
+2213,Iwaki,1
+2214,Iwata,64
+2215,Iwate,14
+2216,Izmir,69
+2217,Izmit,72
+2218,Izumi,176
+2219,Izumisano,176
+2220,Izumo,66
+2221,Jabriya,187
+2222,Jackson,300
+2223,Jackson Heights,324
+2224,Jackson Hole,337
+2225,Jacksonville,299
+2226,Jacksonville Beach,303
+2227,Jacksonville Mandarin,303
+2228,Jahra,190
+2229,Jakarta,146
+2230,Jakarta Barat,146
+2231,Jakarta Pusat,146
+2232,Jakarta Selatan,146
+2233,Jakarta Utara,146
+2234,Jamaica,324
+2235,Jamestown,318
+2236,Jamison,328
+2237,Janesville,335
+2238,Jasper,304
+2239,Jeddah,28
+2240,Jefferson,304
+2241,Jefferson City,94
+2242,Jeffersontown,311
+2243,Jeffersonville,325
+2244,Jeiju,185
+2245,jeju,185
+2246,Jeju-si,185
+2247,"Jeju-si,",185
+2248,Jellanamdo,77
+2249,Jenison,314
+2250,Jenkintown,328
+2251,Jensen Beach,303
+2252,Jeonju,76
+2253,Jeonju-si,76
+2254,"Jeonju-si,",76
+2255,Jeonlanamdo,77
+2256,Jericho,324
+2257,Jersey City,321
+2258,Jessheim,28
+2259,Jessup,119
+2260,Jiaxing,67
+2261,Jim Thorpe,328
+2262,jin hua,67
+2263,Jinhu Township,286
+2264,Jinhua,67
+2265,Jinju,184
+2266,Jinju-si,184
+2267,Jogjakarta,148
+2268,Jogyakarta,148
+2269,Johannesburg,339
+2270,Johns Creek,304
+2271,Johns Island,329
+2272,Johnson City,160
+2273,Johnston,306
+2274,Johnstown,301
+2275,Johor,169
+2276,Johor Bahru,92
+2277,Johor Bharu,92
+2278,Joint Base Andrews,119
+2279,Joliet,308
+2280,Jonesboro,299
+2281,Jonesborough,160
+2282,Joplin,94
+2283,Jubail,164
+2284,Junction City,310
+2285,Juneau,297
+2286,Jupiter,303
+2287,Jyoetsu,32
+2288,Kagoshima,77
+2289,Kahoku,170
+2290,Kahului,305
+2291,Kahului Airport,305
+2292,Kai,171
+2293,Kailua,305
+2294,Kailua-Kona,305
+2295,Kakamigahara,63
+2296,Kakogawa,177
+2297,Kalamazoo,314
+2298,Kalispell,317
+2299,Kalithea,139
+2300,KÖLN,103
+2301,Kamagaya,62
+2302,Kamakura,31
+2303,Kamisato-machi,61
+2304,Kamisu,167
+2305,Kamloops,40
+2306,Kampar,167
+2307,Kamuela,305
+2308,Kanata,44
+2309,Kanazawa,170
+2310,Kaneohe,305
+2311,Kannayao,168
+2312,Kansas City,310
+2313,Kanuma,16
+2314,Kaohsiung,283
+2315,Kaohsiung City,283
+2316,Kapaa,305
+2317,Kapolei,305
+2318,Karawang,146
+2319,KARLSRUHE,97
+2320,Karuizawa-machi,172
+2321,Kasai,177
+2322,Kasama,167
+2323,Kashihara,178
+2324,Kashimamachi,74
+2325,Kashiwa,62
+2326,Kassel,100
+2327,Kastrup,110
+2328,Kasuga,182
+2329,Kasugai,29
+2330,Kasukabe,61
+2331,Kasuya-machi,182
+2332,Kathu,109
+2333,Katori,62
+2334,Katowice,105
+2335,Katsushika-ku,30
+2336,Katu,109
+2337,Katy,331
+2338,Kawagoe,61
+2339,Kawaguchi,61
+2340,Kawai-cho,178
+2341,Kawajima-machi,61
+2342,Kawanishi,177
+2343,Kawasaki,31
+2344,Kayseri,180
+2345,Kearney,320
+2346,Kecamatan Taman Sari,148
+2347,Keelung City,282
+2348,Keene,226
+2349,Keesler AFB,316
+2350,Keizer,327
+2351,Keller,331
+2352,Kelowna,40
+2353,Kelso,334
+2354,Kemah,331
+2355,Kendall,303
+2356,Kenilworth,135
+2357,Kenmore,334
+2358,Kennebunk,313
+2359,Kenner,312
+2360,Kennesaw,304
+2361,Kennett Square,328
+2362,Kennewick,334
+2363,Kenora,44
+2364,Kenosha,335
+2365,Kensington,119
+2366,Kent,135
+2367,"Kent,",334
+2368,Kentwood,314
+2369,Kerman,300
+2370,Kernersville,318
+2371,Kerrville,331
+2372,Ketchikan,297
+2373,Ketchum,307
+2374,Kettering,135
+2375,Kettleman City,300
+2376,Kew Gardens,324
+2377,Key Biscayne,303
+2378,Key Largo,303
+2379,Key West,303
+2380,Keystone,301
+2381,Khaitan,187
+2382,Khaldiya,190
+2383,Khannayao,168
+2384,Khimki,252
+2385,Khobar,92
+2386,Khon Kaen,182
+2387,Kiatakyusyu,182
+2388,Kidderminster,135
+2389,Kiel,7
+2390,Kihei,305
+2391,Kikuyo-cho,74
+2392,KILBURN,135
+2393,Kilkenny,10
+2394,Kill Devil Hills,318
+2395,Killeen,331
+2396,Kimcheon-si,183
+2397,King City,300
+2398,King George,332
+2399,King of Prussia,328
+2400,Kingman,3
+2401,Kings Beach,300
+2402,Kings Island,325
+2403,Kings Mountain,318
+2404,Kingsburg,300
+2405,Kingsport,160
+2406,Kingston,44
+2407,Kingston Upon Thames,135
+2408,Kingstowne,332
+2409,Kingsville,331
+2410,Kingwood,331
+2411,Kirkland,46
+2412,Kirksville,94
+2413,Kirkwood,94
+2414,Kisarazu,62
+2415,Kishiwada,176
+2416,Kisogawacho,29
+2417,Kissimmee,303
+2418,Kista,39
+2419,Kitahiroshima,92
+2420,Kita-ku,30
+2421,Kitakyushu,182
+2422,Kitanakagusukuson,183
+2423,Kitchener,44
+2424,Kittery,313
+2425,Kitty Hawk,318
+2426,Kiyama-cho,72
+2427,Kiyose,30
+2428,Kizugawa,176
+2429,KL,31
+2430,Klamath Falls,327
+2431,Klang,168
+2432,Kleinburg,44
+2433,Klong Toey,168
+2434,Klongklum,168
+2435,Klongsan,168
+2436,Klongtey,168
+2437,Klongtoey,168
+2438,Klong-toey Nua,168
+2439,Knightdale,318
+2440,Knoxville,160
+2441,Knoxville West,160
+2442,Kobe,30
+2443,Koblenz,104
+2444,Kocaeli,72
+2445,Kocaeli (Izmit),72
+2446,Kochi,181
+2447,Kodiak,297
+2448,Kofu,171
+2449,Koganei,30
+2450,Koh Samui,110
+2451,Koka,174
+2452,Kokomo,309
+2453,Kokubunji,30
+2454,Kolding,111
+2455,Koloa,305
+2456,Komtar,1
+2457,Kona,305
+2458,Konan,29
+2459,Konya,73
+2460,Koriyama,1
+2461,Koshigaya,61
+2462,Kota Kinabalu,62
+2463,Kota Samarahan,30
+2464,Kotelniki,252
+2465,Koto-ku,30
+2466,Kowloon,86
+2467,Kowloon Bay,86
+2468,Kowloon Tong,86
+2469,Kraków,118
+2470,Krakow,242
+2471,Krasnodar,251
+2472,Krasnogorsk,252
+2473,Kratoo,109
+2474,Kuala Lumpur,31
+2475,Kuala Lumpur Sentral,31
+2476,Kuantan,165
+2477,Kuching,30
+2478,Kuki,61
+2479,Kulai Johor,92
+2480,Kulaijaya,92
+2481,Kumagaya,61
+2482,Kumamoto,73
+2483,Kumiyama-cho,175
+2484,Kuna,307
+2485,Kunitachi,30
+2486,Kurashiki,67
+2487,Kure,68
+2488,Kurume,182
+2489,Kusatsu,174
+2490,Kuta,21
+2491,Kutztown,328
+2492,Kuwait,190
+2493,Kuwana,29
+2494,Kyle,331
+2495,Kyotanabe,175
+2496,Kyoto,175
+2497,La Canada,300
+2498,La Crescenta,300
+2499,La Grande,327
+2500,La Grange,304
+2501,La Habra,300
+2502,La Jolla,300
+2503,La Libertad,58
+2504,La Mesa,300
+2505,La Mirada,300
+2506,La Paz,196
+2507,La Plata,119
+2508,La Puente,300
+2509,La Quinta,300
+2510,LA VERNE,300
+2511,Labuan,32
+2512,Lacey,334
+2513,Lacy Lakeview,331
+2514,Ladera Ranch,300
+2515,Ladprao,168
+2516,Ladue,94
+2517,Lady Lake,303
+2518,Ladysmith,40
+2519,Lafayette,300
+2520,LaGrange,311
+2521,Laguna Beach,300
+2522,Laguna Hills,300
+2523,Laguna Niguel,300
+2524,Laguna Woods,300
+2525,Lahaina,305
+2526,Lake Bluff,308
+2527,Lake Buena Vista,303
+2528,Lake Charles,312
+2529,Lake City,303
+2530,Lake Delton,335
+2531,Lake Elsinore,300
+2532,Lake Forest,300
+2533,Lake Geneva,335
+2534,Lake Grove,324
+2535,Lake Havasu City,3
+2536,Lake In The Hills,308
+2537,Lake Isabella,300
+2538,Lake Jackson,331
+2539,Lake Mary,303
+2540,Lake Orion,314
+2541,Lake Oswego,327
+2542,Lake Park,303
+2543,Lake Placid,324
+2544,Lake Ridge,332
+2545,Lake St. Louis,94
+2546,Lake Stevens,334
+2547,Lake Worth,303
+2548,Lake Zurich,308
+2549,Lakeland,303
+2550,Lakeport,300
+2551,Lakeshore,44
+2552,Lakeside,3
+2553,Lakeville,315
+2554,Lakeway,331
+2555,Lakewood,300
+2556,Lambertville,314
+2557,Lampung,153
+2558,Lanarkshire,135
+2559,Lancashire,135
+2560,Lancaster,135
+2561,Land O Lake,303
+2562,Lander,337
+2563,Landrum,329
+2564,Lanesboro,118
+2565,Langely,40
+2566,Langford,40
+2567,Langhorne,328
+2568,Langkawi,28
+2569,Langley,40
+2570,Lanham,119
+2571,Lanksi,62
+2572,Lansdale,328
+2573,Lansing,314
+2574,Lantau Island,86
+2575,Lapeer,314
+2576,LaPorte,331
+2577,Lapu Lapu,1
+2578,Lapu-Lapu City,14
+2579,Laramie,337
+2580,Larbert,137
+2581,Larchmont,324
+2582,Lardprao,168
+2583,Laredo,331
+2584,Largo,303
+2585,Larkfield,300
+2586,Larkspur,300
+2587,Larnaca,14
+2588,Las Cruces,322
+2589,Las Pinas,238
+2590,Las Pinas City,238
+2591,Las Tablas - Madrid,119
+2592,Las Vegas,323
+2593,LaSalle,44
+2594,Latham,324
+2595,Lathrop,300
+2596,Latrobe,328
+2597,Lauderhill,303
+2598,Laughlin,323
+2599,Laurel,119
+2600,Lausanne,55
+2601,Laval,46
+2602,Laveen,3
+2603,Lawn,328
+2604,Lawndale,300
+2605,Lawrence,309
+2606,Lawrenceville,304
+2607,Lawton,326
+2608,Layton,228
+2609,Lazaro Cardenas,208
+2610,Le Grand Saconnex,52
+2611,League City,331
+2612,Leamington Spa,135
+2613,Leander,331
+2614,Leavenworth,310
+2615,Leawood,310
+2616,Lebanon,309
+2617,Lebec,300
+2618,Leduc,39
+2619,Ledyard,116
+2620,Leeds,135
+2621,Leeds City Point,135
+2622,Lees Summit,94
+2623,Lee's Summit,94
+2624,Leesburg,332
+2625,Lehi,228
+2626,Lehigh Valley,328
+2627,Leicester,135
+2628,Leiden,57
+2629,Leipzig,106
+2630,Leland,318
+2631,Lemesos,28
+2632,Lemon Grove,300
+2633,Lemont,308
+2634,Lemoore,300
+2635,Lenexa,310
+2636,Lenoir City,160
+2637,Lenor City,160
+2638,Leominster,118
+2639,Leon,205
+2640,LEONBERG,97
+2641,Lethbridge,39
+2642,Leuven,26
+2643,Levelland,331
+2644,Leverkusen,103
+2645,Levis,46
+2646,Levittown,324
+2647,Lewis,325
+2648,Lewis Center,325
+2649,Lewisburg,328
+2650,Lewiston,307
+2651,Lewisville,331
+2652,Lexington,311
+2653,Liberty,94
+2654,Liberty Lake,334
+2655,Liberty Township,325
+2656,Libertyville,308
+2657,Liege,27
+2658,Lihue,305
+2659,Lilburn,304
+2660,Lille,131
+2661,Lima,236
+2662,Limassol,28
+2663,Limerick,10
+2664,Lincoln,135
+2665,Lincoln City,327
+2666,Lincoln Park,314
+2667,Lincolnton,318
+2668,Lincolnwood,308
+2669,Lincroft,321
+2670,Lindale,331
+2671,Linden,321
+2672,Lindsay,300
+2673,Lino Lakes,315
+2674,Linthicum Heights,119
+2675,Linwood,137
+2676,Lionville,328
+2677,Lipa City,182
+2678,Liphook,135
+2679,Lisboa,61
+2680,Lisbon,92
+2681,Lisle,308
+2682,Litchfield Park,3
+2683,Lititz,328
+2684,Little Elm,331
+2685,Little falls,324
+2686,Little Ferry,321
+2687,Little Neck,324
+2688,Little Rock,299
+2689,"Little Rock,",299
+2690,Littleton,301
+2691,Live Oak,331
+2692,Livermore,300
+2693,Liverpool,135
+2694,Livingston,137
+2695,Livonia,314
+2696,Llandudno,138
+2697,Llanelli,138
+2698,Lloydminster,39
+2699,Lock Haven,328
+2700,Lockport,308
+2701,Lodi,300
+2702,Logan,228
+2703,Logansport,309
+2704,Loganville,304
+2705,Loiu,37
+2706,Loma Linda,300
+2707,Lombard,308
+2708,Lompoc,300
+2709,London,44
+2710,London Colney,135
+2711,Londonderry,136
+2712,Lone Tree,301
+2713,Long Beach,300
+2714,Longmeadow,118
+2715,Longmont,301
+2716,Longtan Township,288
+2717,Longview,331
+2718,Longwood,303
+2719,Lookout Mountain,304
+2720,Loomis,300
+2721,Lopburi,169
+2722,Lorain,325
+2723,Lorton,332
+2724,Los Alamitos,300
+2725,Los Alamos,322
+2726,Los Altos,300
+2727,Los Angeles,300
+2728,Los Banos,300
+2729,Los Cabos,196
+2730,Los Gatos,300
+2731,Los Lunas,322
+2732,Los Mochis,217
+2733,Los Osos,300
+2734,Loudonville,324
+2735,Loughborough,135
+2736,Loughton,135
+2737,Louisville,301
+2738,Loveland,301
+2739,Lowell,118
+2740,Lower Paxton,328
+2741,Lowestoft,135
+2742,Lubbock,331
+2743,Lucan,10
+2744,Lucas,331
+2745,Ludlow,118
+2746,Ludwigsburg,97
+2747,Lufkin,331
+2748,Lujhu Township,288
+2749,Lukang Township,273
+2750,Lumberton,318
+2751,Luodong Township,281
+2752,Lusby,119
+2753,Luton,135
+2754,Lutz,303
+2755,Luxembourg-Findel,140
+2756,Luzern,53
+2757,Lynbrook,324
+2758,Lynchburg,332
+2759,Lynden,334
+2760,Lyndhurst,325
+2761,Lynn,118
+2762,Lynn Haven,303
+2763,Lynnfield,118
+2764,Lynnwood,334
+2765,Lynwood,300
+2766,Lyon,134
+2767,Lyons,308
+2768,México DF,202
+2769,Macau,87
+2770,MacClenny,303
+2771,Machesney Park,308
+2772,Machida,30
+2773,Mackinac City,314
+2774,Mackinac Island,314
+2775,Macomb,308
+2776,Macomb Township,314
+2777,Macon,304
+2778,Madeira,325
+2779,Madera,300
+2780,Madina,28
+2781,Madison,298
+2782,Madison Heights,314
+2783,Madras,327
+2784,Madrid,39
+2785,Maebashi,168
+2786,Magnolia,331
+2787,Maha Sarakham,75
+2788,Mahwah,321
+2789,Maidenhead,135
+2790,Maidstone,135
+2791,Maineville,325
+2792,Mainz,104
+2793,Maitland,303
+2794,Majadahonda,119
+2795,Makassar,105
+2796,Makati,238
+2797,Makati City,238
+2798,Makkah,28
+2799,Malaga,114
+2800,Malahide,140
+2801,Malang,148
+2802,Malanga,114
+2803,Malay,165
+2804,Malibu,300
+2805,Malolos,14
+2806,Malta,324
+2807,Malvern,328
+2808,Mamaroneck,324
+2809,Mammoth Lakes,300
+2810,Manado,105
+2811,Manahawkin,321
+2812,Manalapan,321
+2813,Manama,30
+2814,Manassas,332
+2815,Manchester,135
+2816,Mandaluyong,238
+2817,Mandaluyong City,238
+2818,Mandaue City,168
+2819,Mandeville,312
+2820,Manhasset,324
+2821,Manhattan,310
+2822,Manhattan Beach,300
+2823,Manila,238
+2824,Manises,114
+2825,Manitowoc,335
+2826,Mankato,315
+2827,Manly,17
+2828,MANNHEIM,97
+2829,Manor,331
+2830,Manorville,324
+2831,Mansfield,135
+2832,Mansourieh,21
+2833,Manteca,300
+2834,Mantua,325
+2835,Manzanillo,201
+2836,MÜNSTER,103
+2837,Maple,44
+2838,Maple Grove,315
+2839,Maple Ridge,40
+2840,Maple Valley,334
+2841,Marana,3
+2842,Marble Falls,331
+2843,Marblehead,118
+2844,Marco Island,303
+2845,Margate,303
+2846,Margate City,321
+2847,Maricopa,3
+2848,Marietta,304
+2849,Marignane,133
+2850,Marikina City,72
+2851,Marilao,14
+2852,Marina,300
+2853,Marina del Rey,300
+2854,Marion,306
+2855,MARKET HARBOROUGH,135
+2856,Markham,44
+2857,Marlborough,118
+2858,Marlow,135
+2859,Marquette,314
+2860,Marrakech,61
+2861,Marrakesh,61
+2862,Marrero,312
+2863,MARSEILLE,133
+2864,Marshall,314
+2865,Marshalltown,306
+2866,Marshfield,118
+2867,Martinez,9
+2868,Martinsburg,336
+2869,Martinsville,309
+2870,Mary Esther,303
+2871,Maryland Heights,94
+2872,Marysville,300
+2873,Maryville,94
+2874,Masaki-cho,180
+2875,Mascouche,46
+2876,Masela,120
+2877,Mashantucket,116
+2878,Mashpee,118
+2879,Mason,325
+2880,Mason City,306
+2881,Massapequa,324
+2882,Massillon,325
+2883,Mataram,151
+2884,Matawan,321
+2885,Matsudo,62
+2886,Matsue,66
+2887,Matsumoto,172
+2888,Matsuyama,180
+2889,Matteson,308
+2890,Matthews,318
+2891,Mattituck,324
+2892,Matto,170
+2893,Maumee,325
+2894,Maumelle,299
+2895,Mayfield Heights,325
+2896,Mays Landing,321
+2897,Mazatlan,217
+2898,McAllen,331
+2899,McChord AFB,334
+2900,McDonough,304
+2901,McHenry,308
+2902,McKinleyville,300
+2903,McKinney,331
+2904,McLean,332
+2905,McMinnville,327
+2906,McMurray,328
+2907,Mebane,318
+2908,Mecca,28
+2909,Mechaicsburg,328
+2910,Mechanicsburg,328
+2911,Mechanicsville,332
+2912,Medan,153
+2913,Medellin,88
+2914,Medepec,210
+2915,Medfield,118
+2916,Medford,118
+2917,Media,328
+2918,Medicine Hat,39
+2919,Medina,315
+2920,Medway,118
+2921,Meerkerk,57
+2922,Mega Park,191
+2923,Meguro-ku,30
+2924,Meiwa-cho,173
+2925,Melaka,164
+2926,Melaka Tengah,164
+2927,Melbourne,19
+2928,Melbourne Village,303
+2929,Melrose,118
+2930,Melrose Park,308
+2931,Melville,324
+2932,Memphis,160
+2933,Mendoza,11
+2934,Menifee,300
+2935,Menlo Park,300
+2936,Menlyn,339
+2937,Menomonee Falls,335
+2938,Mentor,325
+2939,Mequon,335
+2940,Merced,300
+2941,Mercedes,331
+2942,Mercer Island,334
+2943,Merida,223
+2944,Meriden,116
+2945,Meridian,307
+2946,Merignac,9
+2947,Merriam,310
+2948,Merrick,324
+2949,Merrifield,332
+2950,Merrillville,309
+2951,Merrimack,226
+2952,Merrionette Park,308
+2953,Merritt,40
+2954,Merritt Island,303
+2955,Mersin,67
+2956,Mersin (Icel),67
+2957,Mersin Icel,67
+2958,Mesa,3
+2959,Mesquite,323
+2960,Messilah,188
+2961,Metairie,312
+2962,Metarie,312
+2963,Metepec,210
+2964,Methuen,118
+2965,Mexicali,195
+2966,MEXICO,202
+2967,Mexico City,202
+2968,Mexico D F,202
+2969,Mexico D.F,202
+2970,Mexico DF,202
+2971,Mexico Pampanga,14
+2972,Miami,3
+2973,Miami Beach,303
+2974,Miami Gardens,303
+2975,Miami Lakes,303
+2976,Miami Shores,303
+2977,Miami Springs,303
+2978,Miamisburg,325
+2979,Miaoli County,284
+2980,Mibu-machi,16
+2981,Michigan City,309
+2982,Middlesbrough,135
+2983,Middleton,335
+2984,Middletown,302
+2985,Middlewich,135
+2986,Midland,314
+2987,Midland Park,321
+2988,Midlothian,331
+2989,Midrand,339
+2990,Midwest City,326
+2991,Mijas Costa,114
+2992,Miki,176
+2993,Miki-cho,71
+2994,Milford,116
+2995,Mililani,305
+2996,Mill Creek,334
+2997,Mill Valley,300
+2998,Millbrae,300
+2999,Millburn,321
+3000,Milledgeville,304
+3001,Miller Place,324
+3002,Millington,160
+3003,Mills River,318
+3004,Milltown,321
+3005,Millville,302
+3006,Milpitas,300
+3007,Milton,44
+3008,Milton Keynes,135
+3009,Milwaukee,335
+3010,Milwaukie,327
+3011,Minamiashigara,31
+3012,Minamiechizen-cho,124
+3013,Minato-ku,30
+3014,Minden,323
+3015,Minneapolis,315
+3016,Minnetonka,315
+3017,Minoh,176
+3018,Minooka,308
+3019,Minot,319
+3020,Mint Hill,318
+3021,Mira Loma,300
+3022,Miramar,303
+3023,Miramar Beach,303
+3024,Mirfield,135
+3025,Miri,30
+3026,Miri Sarawak,30
+3027,Misato,61
+3028,Mishawaka,309
+3029,Mishima,64
+3030,Mission,40
+3031,Mission Hills,300
+3032,MISSION VIEJO,300
+3033,Mississauga,44
+3034,Mississippi State,316
+3035,Missoula,317
+3036,Missouri City,331
+3037,Mitaka,30
+3038,Mito,167
+3039,Miyazaki,76
+3040,Miyoshi-machi,61
+3041,Miyzaki,76
+3042,Mizuho-cho,30
+3043,Moab,228
+3044,Mobile,298
+3045,Modesto,300
+3046,Mokpo-si,77
+3047,Molalla,327
+3048,Moline,308
+3049,Monaca,328
+3050,Monaco,193
+3051,Monclova,200
+3052,Moncton,42
+3053,Mong Kok,86
+3054,Monmouth,138
+3055,Monona,335
+3056,Monroe,116
+3057,Monroeville,328
+3058,Monrovia,300
+3059,Mont Tremblant,46
+3060,Montclair,300
+3061,Montebello,300
+3062,Monterey,300
+3063,Monterey Park,300
+3064,Monterrey,212
+3065,Montgomery,298
+3066,Montgomeryville,328
+3067,Monticello,315
+3068,Montpellier,129
+3069,Montreal,46
+3070,Montrose,300
+3071,Mont-Tremblant,46
+3072,Montvale,321
+3073,Montville,116
+3074,Monument,301
+3075,Moon Township,328
+3076,Moore,326
+3077,Moorestown,321
+3078,Mooresville,318
+3079,Moorhead,315
+3080,Moorpark,300
+3081,Moose Jaw,47
+3082,Moosic,328
+3083,Moraga,300
+3084,Moravia,90
+3085,Morehead,311
+3086,Morehead City,318
+3087,Morelia,208
+3088,Morenci,3
+3089,Moreno Valley,300
+3090,Morgan Hill,300
+3091,Morganton,318
+3092,Morgantown,336
+3093,Morganville,321
+3094,Mori,164
+3095,Moriguchi,176
+3096,Morioka,14
+3097,Moriya,167
+3098,Moron,9
+3099,Morris,308
+3100,Morris Plains,321
+3101,Morristown,321
+3102,Morrisville,318
+3103,Morro Bay,300
+3104,Morton,308
+3105,Morton Grove,308
+3106,Moscow,253
+3107,"Moscow Region, Khimki",253
+3108,Moses Lake,334
+3109,Motosu,63
+3110,Mougins,133
+3111,Mouka,16
+3112,Moultrie,304
+3113,Mount Airy,119
+3114,Mount Dora,303
+3115,Mount Juliet,160
+3116,Mount Kisco,324
+3117,Mount Laurel,321
+3118,Mount Pleasant,314
+3119,Mount Pocono,328
+3120,Mount Prospect,308
+3121,Mount Vernon,324
+3122,Mountain Brook,298
+3123,Mountain Home,299
+3124,Mountain View,300
+3125,Mountlake Terrace,334
+3126,Mt Druitt,17
+3127,Mt Juliet,160
+3128,Mt Kisco,324
+3129,Mt Orab,325
+3130,Mt Pleasant,329
+3131,Mt Vernon,325
+3132,Mt. Pleasant,329
+3133,MT. VERNON,308
+3134,Muang,61
+3135,Muang Chiangmai,78
+3136,Muang Chiangrai,262
+3137,Muang Krabi,108
+3138,Muang Nakhonratchasima,179
+3139,Muang Phitsanulok,264
+3140,Muang Rayong,63
+3141,Muang Ubon Ratchathani,68
+3142,Muang Udon Thani,72
+3143,"Muang,",74
+3144,Muar,92
+3145,Mubarak Al Kabeer,186
+3146,Mubarak Al-Kabeer,120
+3147,Mubrak Al Kabeer,120
+3148,MUELHEIM,103
+3149,MUENCHEN,98
+3150,Mugla,184
+3151,Muharraq,32
+3152,Mukilteo,334
+3153,Mukim Kilanas,34
+3154,Mukim Petaling,168
+3155,MUKIM PLENTONG,92
+3156,Mulhouse,89
+3157,Mumbai,159
+3158,Muncie,309
+3159,Muncy,328
+3160,Mundelein,308
+3161,Mungyeong-si,183
+3162,Munich,98
+3163,Municipio de Huixquilucan,210
+3164,Munster,309
+3165,Muntinlupa,238
+3166,Muntinlupa City,238
+3167,Murcia,120
+3168,Murfreesboro,160
+3169,Murphy,318
+3170,Murray,228
+3171,Murrells Inlet,329
+3172,Murrieta,300
+3173,Murrietta,300
+3174,Murrysville,328
+3175,Musashimurayama,30
+3176,Musashino,30
+3177,Muscat,120
+3178,Muscatine,306
+3179,Mushrif,188
+3180,Muskego,335
+3181,Muskegon,314
+3182,Mykonos,140
+3183,Myrtle Beach,329
+3184,Mystic,116
+3185,Mytischi,252
+3186,N Kingstown,152
+3187,N Las Vegas,323
+3188,N. Tacoma,334
+3189,N.T.,86
+3190,NA,30
+3191,Nabatieh,21
+3192,Nacogdoches,331
+3193,Naestved,110
+3194,Naga City,168
+3195,Nagahama,174
+3196,Nagakute,29
+3197,Nagano,172
+3198,Nagaoka,32
+3199,Nagareama,62
+3200,Nagasaki,73
+3201,Nagoya,62
+3202,Naha,183
+3203,naju,77
+3204,Nakano-ku,30
+3205,Nakhon Pathom,266
+3206,Nakhon Ratchasima,179
+3207,Nakhonsawan,263
+3208,Nakhonsithamarat,269
+3209,Namegawamachi,61
+3210,Nampa,307
+3211,Namur,27
+3212,Namyangju-si,72
+3213,Nanaimo,40
+3214,Nanjing,66
+3215,Nanterre,128
+3216,Nantes,132
+3217,Nantong,66
+3218,Nantou,285
+3219,Nantou City,285
+3220,Nanuet,324
+3221,NÜRNBERG,98
+3222,Napa,300
+3223,Napavine,334
+3224,Naperville,308
+3225,Napier,130
+3226,Naples,303
+3227,Nappanee,309
+3228,Nara,178
+3229,Narashino,62
+3230,Narimonov,21
+3231,Narita,62
+3232,NAS Lemoore,300
+3233,Nashua,226
+3234,Nashville,160
+3235,Nassau,37
+3236,Nassau Bay,331
+3237,NATICK,118
+3238,National City,300
+3239,National Harbor,119
+3240,Naucalpan,210
+3241,Naval Station Pensacola,303
+3242,Navi Mumbai,159
+3243,Nederland,331
+3244,Needham,118
+3245,Neenah,335
+3246,Nellis AFB,323
+3247,Nelson,40
+3248,Nepean,44
+3249,Neptune Beach,303
+3250,Nerima-ku,30
+3251,Nesconset,324
+3252,Neumunster,7
+3253,Neustadt Wied,104
+3254,New Albany,309
+3255,New Berlin,335
+3256,New Bern,318
+3257,New Braunfels,331
+3258,New Britain,116
+3259,New Brunswick,321
+3260,New Canaan,116
+3261,New Carrollton,119
+3262,New City,324
+3263,New Delhi,157
+3264,New Fairfield,116
+3265,New Haven,116
+3266,New Hope,315
+3267,New Hudson,314
+3268,New Hyde Park,324
+3269,New Iberia,312
+3270,New Kensington,328
+3271,New Lenox,308
+3272,New Milford,116
+3273,New Orleans,312
+3274,New Paltz,324
+3275,New Port Richey,303
+3276,New Providence,321
+3277,New Rochelle,324
+3278,New Stanton,328
+3279,New Taipei City,291
+3280,New Territories,86
+3281,New Westminster,40
+3282,New York,324
+3283,Newark,135
+3284,Newberg,327
+3285,Newberry,303
+3286,Newbridge,140
+3287,Newburg,328
+3288,Newburgh,309
+3289,Newbury,135
+3290,Newbury Park,300
+3291,Newburyport,118
+3292,Newcastle,135
+3293,Newcastle on Tyne,135
+3294,Newcastle Under Lyme,135
+3295,Newcastle Upon Tyne,135
+3296,Newington,116
+3297,Newmarket,44
+3298,Newnan,304
+3299,Newport,135
+3300,Newport Beach,300
+3301,Newport City,72
+3302,Newport Coast,300
+3303,Newport News,332
+3304,Newry,136
+3305,Newton,306
+3306,Newton Centre,118
+3307,Newtonville,118
+3308,Newtown,116
+3309,Newtown Square,328
+3310,Neyagawa,176
+3311,Niagara Falls,44
+3312,Niagara on the Lake,44
+3313,nice,133
+3314,Nicholasville,311
+3315,Nicosia,92
+3316,Niigata,32
+3317,Niihama,180
+3318,Niiza,61
+3319,Nijmegen,52
+3320,Niles,308
+3321,Ningbo,67
+3322,Nipomo,300
+3323,Nishihara-cho,183
+3324,Nishinomiya,177
+3325,Nishio,29
+3326,Niskayuna,324
+3327,Nisshin,29
+3328,Niteroi,35
+3329,Nixa,94
+3330,Noblesville,309
+3331,Nogales,219
+3332,Nogata,182
+3333,Noida,161
+3334,Nonoichi,170
+3335,Nonsan-si,75
+3336,Nontha Buri,62
+3337,Nonthaburi,168
+3338,Noord,20
+3339,Norco,300
+3340,Norcross,304
+3341,Norfolk,135
+3342,Normal,308
+3343,Norman,326
+3344,Normandy Park,334
+3345,Norristown,328
+3346,North Andover,118
+3347,North Attleboro,118
+3348,North Attleborough,118
+3349,North Augusta,329
+3350,North Babylon,324
+3351,North Bend,327
+3352,North Bergen,321
+3353,North Bethesda,119
+3354,North Brunswick,321
+3355,North Canton,325
+3356,North Charleston,329
+3357,North Charlotte,318
+3358,North Cheam,135
+3359,North Conway,226
+3360,North Dartmouth,118
+3361,North Haven,116
+3362,North Highland,300
+3363,North Highlands,300
+3364,North Hills,300
+3365,North Hollywood,300
+3366,North Huntingdon,328
+3367,North Las Vegas,323
+3368,North Lethbridge,39
+3369,North Little Rock,299
+3370,North Maplewood,315
+3371,North Merrick,324
+3372,North Miami,303
+3373,North Miami Beach,303
+3374,North Myrtle Beach,329
+3375,North Ogden,228
+3376,North Olmsted,325
+3377,North Platte,320
+3378,North Pole,297
+3379,North Port,303
+3380,North Reading,118
+3381,North Richland Hills,331
+3382,North Riverside,308
+3383,North Vancouver,40
+3384,North Wales,328
+3385,North Woodbridge,321
+3386,North York,44
+3387,Northampton,135
+3388,Northborough,118
+3389,Northbrook,308
+3390,Northfield,308
+3391,Northglenn,301
+3392,Northport,324
+3393,Northridge,300
+3394,Northvale,321
+3395,Northville,314
+3396,Norwalk,300
+3397,Norwich,135
+3398,Norwood,118
+3399,Notre Dame,309
+3400,Nottingham,135
+3401,Nottinghamshire,135
+3402,Novato,300
+3403,Novi,314
+3404,Nr Filey,135
+3405,nr Stroud,135
+3406,NUERNBERG,98
+3407,Nuevo Leon,212
+3408,Numazu,64
+3409,Nusa Dua,151
+3410,Nusajaya,92
+3411,Nutley,321
+3412,Nyack,324
+3413,بيروت,21
+3414,اشرفية,21
+3415,البحرين,30
+3416,الدوحة,246
+3417,الدمام,164
+3418,الظهران,164
+3419,الرياض,92
+3420,الخبر,164
+3421,الخرج,92
+3422,الطائف,14
+3423,الزينج,30
+3424,المدينة المنورة,28
+3425,المنامة,30
+3426,الهفوف,14
+3427,جدة,28
+3428,جال الديب,21
+3429,جناح,21
+3430,جية,21
+3431,عمان,162
+3432,عين مريسة,21
+3433,زلقة,21
+3434,سند,31
+3435,Oak Brook,308
+3436,Oak Creek,335
+3437,Oak Forest,308
+3438,Oak Grove,327
+3439,Oak Harbor,334
+3440,Oak Lawn,308
+3441,Oak Park,308
+3442,Oak Park Heights,315
+3443,Oak Ridge,160
+3444,Oakbrook,308
+3445,Oakbrook Terrace,308
+3446,Oakdale,300
+3447,Oakhurst,300
+3448,Oakland,300
+3449,Oakland Park,303
+3450,Oakley,300
+3451,Oakridge,160
+3452,Oaks,328
+3453,Oakton,332
+3454,Oakville,44
+3455,Oakwood,304
+3456,Oaxaca,213
+3457,OBERHAUSEN,103
+3458,Obihiro,92
+3459,Obu,29
+3460,Ocala,303
+3461,Ocean,321
+3462,Ocean City,119
+3463,Ocean Springs,316
+3464,Ocean Township,321
+3465,Oceanside,300
+3466,Ocoee,303
+3467,Oconomowoc,335
+3468,Odawara,31
+3469,Odense,109
+3470,Odenton,119
+3471,Odessa,303
+3472,OFallon,308
+3473,O'Fallon,94
+3474,Offenbach am Main,100
+3475,Ogaki,63
+3476,Ogden,228
+3477,Oirasecho,28
+3478,Oita,75
+3479,Ojai,300
+3480,Okaay,172
+3481,Okayama,67
+3482,Okazaki,29
+3483,Okemos,314
+3484,Oklahoma City,326
+3485,Okotoks,39
+3486,Olathe,310
+3487,Old Bridge,321
+3488,Old Saybrook,116
+3489,Old Tappan,321
+3490,Oldsmar,303
+3491,Olive Branch,316
+3492,Olivette,94
+3493,Olney,119
+3494,Olongapo City,14
+3495,Olympia,334
+3496,Olympic Valley,300
+3497,OMAHA,320
+3498,Omak,334
+3499,Ome,30
+3500,Omura,73
+3501,Omuta,182
+3502,Onalaska,335
+3503,Oneonta,324
+3504,Ontario,300
+3505,غزير,21
+3506,Opelika,298
+3507,Orange,300
+3508,Orange Beach,298
+3509,Orange City,303
+3510,Orange Park,303
+3511,Orangeville,44
+3512,Oranjestad,20
+3513,Orchard Lake,314
+3514,Orchard Park,324
+3515,Orcutt,300
+3516,Oregon,325
+3517,Oregon City,327
+3518,Orem,228
+3519,Orinda,300
+3520,Orion Township,314
+3521,Orland,300
+3522,ORLAND PARK,308
+3523,Orlando,303
+3524,Orleans,44
+3525,Orly,128
+3526,Ormond Beach,303
+3527,Ormskirk,135
+3528,Oro Valley,3
+3529,Oroville,300
+3530,Orpington,135
+3531,Orting,334
+3532,Osage Beach,94
+3533,Osaka,176
+3534,Osan-si,72
+3535,Oshawa,44
+3536,Oshkosh,335
+3537,Oslo,14
+3538,Osmangazi,169
+3539,OSNABRUECK,102
+3540,Ossining,324
+3541,Ostrava,94
+3542,Oswego,308
+3543,Oswestry Gateway,135
+3544,Ota,168
+3545,Ota-ku,30
+3546,Otsego,315
+3547,Otsu,174
+3548,Ottawa,44
+3549,Ottumwa,306
+3550,Oumihachiman,174
+3551,Overland Park,310
+3552,Oviedo,303
+3553,Owasso,326
+3554,Owatonna,315
+3555,Owensboro,311
+3556,Owings Mills,119
+3557,Oxford,135
+3558,Oxnard,300
+3559,Oxon Hill,119
+3560,Oyabe,169
+3561,Oyama,16
+3562,Oyama-cho,64
+3563,Ozark,94
+3564,Pace,303
+3565,Pachuca,206
+3566,Pacific Beach,300
+3567,Pacific Grove,300
+3568,Pacific Palisades,300
+3569,Pacifica,300
+3570,Paducah,311
+3571,Page,3
+3572,Pagosa Springs,301
+3573,Pahang,165
+3574,Pahrump,323
+3575,Paisley,137
+3576,Paju,72
+3577,Paju-si,72
+3578,Pakchong,179
+3579,Pakkred,168
+3580,Palatine,308
+3581,Palembang,153
+3582,Palm,117
+3583,Palm Bay,303
+3584,Palm Beach,303
+3585,Palm Beach Gardens,303
+3586,Palm City,303
+3587,Palm Coast,303
+3588,Palm Desert,300
+3589,Palm Dessert,300
+3590,Palm Harbor,303
+3591,Palm Springs,300
+3592,Palma,117
+3593,Palmdale,300
+3594,Palmer,297
+3595,Palmetto Bay,303
+3596,Palo Alto,300
+3597,Palos Heights,308
+3598,Pampa,331
+3599,Panama,92
+3600,Panama City,167
+3601,Panama City Beach,303
+3602,Panorama City,300
+3603,Paoli,328
+3604,Paphos,15
+3605,Papillion,320
+3606,Paramount,300
+3607,PARAMUS,321
+3608,Paranaque,238
+3609,Paranaque City,238
+3610,Paris,128
+3611,Park City,228
+3612,Park Ridge,308
+3613,Parker,3
+3614,Parkland,303
+3615,Parksville,40
+3616,Parma,325
+3617,Parramatta,17
+3618,Parry Sound,44
+3619,Pasadena,300
+3620,Pasay,238
+3621,Pasay City,238
+3622,Pasco,334
+3623,Pasig,238
+3624,Pasig City,238
+3625,Paso Robles,300
+3626,Pataskala,325
+3627,Patchogue,324
+3628,Pathum Thani,30
+3629,Pathumwan,168
+3630,Patterson,300
+3631,Pattersonville,324
+3632,Patumwan,168
+3633,Pawleys Island,329
+3634,Payson,3
+3635,Peabody,118
+3636,Peachtree City,304
+3637,Peachtree Corners,304
+3638,Pearl City,305
+3639,Pearland,331
+3640,Pekanbaru,153
+3641,Pekin,308
+3642,Pembroke,318
+3643,Pembroke Pines,303
+3644,Penang,165
+3645,Pendik,68
+3646,Pendleton,327
+3647,Penfield,324
+3648,Pennington,321
+3649,Penns Grove,321
+3650,Pennsgrove,321
+3651,Penrith,135
+3652,Pensacola,303
+3653,Penticton,40
+3654,Peoria,3
+3655,Perai,1
+3656,Perris,300
+3657,Perry Hall,119
+3658,Perrysburg,325
+3659,Perth,137
+3660,Peru,308
+3661,Petaling Jaya,168
+3662,Petaling Jaya Selangor,168
+3663,Petaluma,300
+3664,Peterborough,44
+3665,Peterson AFB,301
+3666,Petoskey,314
+3667,Pevensey,135
+3668,Pewaukee,335
+3669,Pflugerville,331
+3670,Pharr,331
+3671,Phasi Charoen,168
+3672,Phayathai,168
+3673,Philadelphia,328
+3674,Phillipsburg,321
+3675,Phnom Penh,62
+3676,Phoenix,3
+3677,Phra Nakhon Si Ayutthaya,31
+3678,Phranakorn,168
+3679,Phuket,109
+3680,Pickens,329
+3681,Pickering,44
+3682,Pickerington,325
+3683,Pico Rivera,300
+3684,Pigeon Forge,160
+3685,Pilar,9
+3686,Pinecrest,303
+3687,Pinehurst,318
+3688,Pinellas Park,303
+3689,Pineville,318
+3690,Pingtung City,287
+3691,Pingtung County,287
+3692,Pinner,135
+3693,Pinole,300
+3694,Piracicaba,36
+3695,Piraeus,139
+3696,Piscataway,321
+3697,Pismo Beach,300
+3698,Pitt Meadows,40
+3699,Pittsburg,300
+3700,Pittsburgh,328
+3701,Pittsfield,118
+3702,Pittsfield Township,314
+3703,Pittsford,324
+3704,Piura,237
+3705,Placentia,300
+3706,Placerville,300
+3707,Plainfield,308
+3708,Plainview,324
+3709,Plainville,116
+3710,plaisir,128
+3711,Plano,331
+3712,Plant City,303
+3713,Plantation,303
+3714,PLATTE CITY,94
+3715,Plattekill,324
+3716,Plattsburg,324
+3717,Plattsburgh,324
+3718,Plattsmouth,320
+3719,Playa del Carmen,216
+3720,Playa Vista,300
+3721,Pleasant Hill,300
+3722,Pleasant Prairie,335
+3723,Pleasanton,300
+3724,Pleasantville,324
+3725,Ploiesti,239
+3726,Plover,335
+3727,Plymouth,135
+3728,Plymouth Meeting,328
+3729,Pocatello,307
+3730,Pocheon-si,72
+3731,Pocklington,135
+3732,Pohang,183
+3733,Pohangsi,183
+3734,Pohang-si,183
+3735,Point Claire,46
+3736,Point Richmond,300
+3737,Pointe Claire,46
+3738,Poland,325
+3739,Pollock Pines,300
+3740,Polson,317
+3741,Pomona,300
+3742,Pompano Beach,303
+3743,Pomprabsutrupai,168
+3744,Pompton Lakes,321
+3745,Ponca City,326
+3746,Ponce,95
+3747,Ponderay,307
+3748,Ponte Vedra,303
+3749,Ponte Vedra Beach,303
+3750,Pontianak,149
+3751,Pontyclun,138
+3752,Poole,135
+3753,Pooler,304
+3754,Port Alberni,40
+3755,Port Angeles,334
+3756,Port Arthur,331
+3757,Port Charlotte,303
+3758,Port Chester,324
+3759,Port Coquitlam,40
+3760,Port Credit,44
+3761,Port Dickson,15
+3762,Port Hadlock,334
+3763,Port Hope,44
+3764,Port Hueneme,300
+3765,Port Jefferson,324
+3766,Port Moody,40
+3767,Port of Spain,274
+3768,Port Orange,303
+3769,Port Orchard,334
+3770,Port Richey,303
+3771,Port St. Lucie,303
+3772,Port Townsend,334
+3773,Port Washington,324
+3774,Portage,309
+3775,Porter,331
+3776,Porterville,300
+3777,Portland,313
+3778,Portsmouth,135
+3779,Post Falls,307
+3780,Potomac,119
+3781,POTSDAM,96
+3782,Potters Bar,135
+3783,Pottstown,328
+3784,Poughkeepsie,324
+3785,Poulsbo,334
+3786,Poway,300
+3787,Powell,325
+3788,Powell River,40
+3789,Poznań,244
+3790,Poznan,244
+3791,Prachuap Khirikhan,268
+3792,Prague,95
+3793,Praha,95
+3794,Praha 5,95
+3795,Prairie Village,310
+3796,Prakanong,168
+3797,Pranakorn,168
+3798,Prathumthani,30
+3799,Prattville,298
+3800,Prawet,168
+3801,Prescott,3
+3802,Prescott Valley,3
+3803,Preston,135
+3804,Prestwick,137
+3805,Price,228
+3806,Primm,323
+3807,Prince Albert,47
+3808,Prince Frederick,119
+3809,Prince George,40
+3810,Prince Rupert,40
+3811,Princeton,321
+3812,Prineville,327
+3813,Prospect,311
+3814,Prosper,331
+3815,Prosser,334
+3816,Providence,152
+3817,Prunedale,300
+3818,Puchong,168
+3819,Puebla,214
+3820,Pueblo,301
+3821,Pueblo West,301
+3822,Puerto Vallarta,207
+3823,Pukalani,305
+3824,Puli Township,285
+3825,Pullman,334
+3826,Puncak,144
+3827,Pune,159
+3828,Purcellville,332
+3829,Purchase,324
+3830,Puteaux,128
+3831,Putrajaya,168
+3832,Puyallup,334
+3833,Pwllheli Gwynedd,138
+3834,Pyeongtaek,72
+3835,Pyeongtaek-si,72
+3836,Pyeongtek-si,72
+3837,Quakertown,328
+3838,Quantico,332
+3839,Quarry Bay,86
+3840,Quebec,46
+3841,Quebec City,46
+3842,Queen Creek,3
+3843,Queensbury,324
+3844,Queretaro,215
+3845,Quesnel,40
+3846,Quezon,238
+3847,Quezon City,238
+3848,Quilmes,9
+3849,Quincy,308
+3850,Quintana Roo,216
+3851,Quinton,135
+3852,Racine,335
+3853,Radford,332
+3854,Rajthewi,168
+3855,Raleigh,318
+3856,Ramona,300
+3857,Ramsey,321
+3858,Ramstein,104
+3859,Rancagua,58
+3860,Rancho Bernardo,300
+3861,Rancho Cordova,300
+3862,Rancho Cucamonga,300
+3863,Rancho Cucamunga,300
+3864,Rancho Mirage,300
+3865,Rancho Palos Verdes,300
+3866,Rancho Santa Margarita,300
+3867,Randolph AFB,331
+3868,Rapid City,330
+3869,Rapperswil,54
+3870,Ras Al Khaimah,6
+3871,Ratchaburi,265
+3872,Ratchathewi,168
+3873,Rawang,168
+3874,Rayong,63
+3875,Reading,135
+3876,Red Bank,321
+3877,Red Bluff,300
+3878,Red Deer,39
+3879,Red Deer County,39
+3880,Red Wing,315
+3881,Redding,300
+3882,Redford,314
+3883,Redlands,300
+3884,Redmond,327
+3885,Redondo Beach,300
+3886,Redwood City,300
+3887,Reedley,300
+3888,Regina,47
+3889,Rego Park,324
+3890,Rehoboth Beach,302
+3891,Reigate and Banstead,135
+3892,Reno,323
+3893,Rensselaer,324
+3894,Renton,334
+3895,Republic,94
+3896,Reseda,300
+3897,Reston,332
+3898,Revelstoke,40
+3899,Revere,118
+3900,Reynoldsburg,325
+3901,Reynosa,221
+3902,Rhinebeck,324
+3903,Rhodes,140
+3904,Rhyl,138
+3905,Rialto,300
+3906,Ribeirao Preto,36
+3907,Richardson,331
+3908,Richfield,315
+3909,Richland,334
+3910,Richmond,40
+3911,Richmond Hill,44
+3912,"Richmond,",332
+3913,Ridgecrest,300
+3914,Ridgefield,116
+3915,Ridgeland,316
+3916,Ridgewood,321
+3917,Rifle,301
+3918,Rijsenhout,226
+3919,Rijswijk,57
+3920,Rincon,304
+3921,Rio de Janeiro,35
+3922,Rio Grande,321
+3923,Rio Rancho,322
+3924,Ripon,300
+3925,Ritzville,334
+3926,Rivenhall South,135
+3927,River Forest,308
+3928,River Ridge,312
+3929,Riverbank,300
+3930,Riverdale,321
+3931,Riverhead,324
+3932,Riverside,300
+3933,Riverton,228
+3934,Riverview,303
+3935,RIYADH,92
+3936,Roanoke,332
+3937,Roanoke Rapids,318
+3938,Rochdale,135
+3939,Rochester,309
+3940,Rochester Hills,314
+3941,Rock Hill,329
+3942,Rock Springs,337
+3943,Rockaway,321
+3944,Rockford,308
+3945,Rockledge,303
+3946,Rocklin,300
+3947,Rockville,119
+3948,Rockville Center,324
+3949,Rockwall,331
+3950,Rocky Hill,116
+3951,Rocky Mount,318
+3952,Rocky River,325
+3953,Rocky View,39
+3954,Rogers,299
+3955,Rohnert Park,300
+3956,Roi Et,76
+3957,Roissy-en-France,128
+3958,Rolla,94
+3959,Rolling Hills,300
+3960,Rolling Hills Estates,300
+3961,Rolling Meadows,308
+3962,Rome,304
+3963,Romeoville,308
+3964,Romford,135
+3965,Ronkonkoma,324
+3966,Rosamond,300
+3967,Rosario,12
+3968,Roseburg,327
+3969,Roseland,321
+3970,Roselle,308
+3971,Rosemead,300
+3972,Rosemere,46
+3973,Rosemont,308
+3974,Rosemount,315
+3975,Rosenberg,331
+3976,Roseville,300
+3977,Roslyn,328
+3978,Roslyn Heights,324
+3979,Ross on Wye,135
+3980,Rosslyn,332
+3981,Rostov-on-Don,254
+3982,Roswell,304
+3983,Rotorua,130
+3984,Rotterdam,226
+3985,Round Lake Beach,308
+3986,Round Rock,331
+3987,Rowland Heights,300
+3988,Rowlett,331
+3989,Royal Oak,314
+3990,Royal Palm Beach,303
+3991,Royersford,328
+3992,Ruby,324
+3993,Ruidoso,322
+3994,Runcorn,135
+3995,Russellville,299
+3996,Ruston,312
+3997,Rutherford,321
+3998,Rye,324
+3999,Ryugasaki,167
+4000,Ryuo-cho,174
+4001,Saanich,40
+4002,Saarbruecken,105
+4003,Sabah,62
+4004,Sacheon-si,184
+4005,Sachse,331
+4006,Saco,313
+4007,Sacramento,300
+4008,Safety Harbor,303
+4009,Safron Walden,135
+4010,Saga,72
+4011,Sagamihara,31
+4012,Saginaw,314
+4013,Sahagu,175
+4014,Sahuarita,3
+4015,Saida,21
+4016,Saimai,168
+4017,Saint Augustine,303
+4018,Saint Germain en Laye,128
+4019,Saint John,42
+4020,Saint Laurent Du Var,133
+4021,Saint Louis,94
+4022,Saint Paul,315
+4023,Saint Petersburg,256
+4024,Saint Quentin en Yvelines,128
+4025,SAINT-BRUNO,46
+4026,Saint-Hubert,46
+4027,Saint-Petersbug,256
+4028,Saint-Petersburg,256
+4029,Saint-Sauveur,46
+4030,Saitama,61
+4031,Sakado,61
+4032,Sakai,176
+4033,Sakarya,271
+4034,Sakata,15
+4035,Saku,172
+4036,Sakura,62
+4037,Salamanca,205
+4038,Salem,118
+4039,Salida,301
+4040,Salina,310
+4041,Salinas,300
+4042,Salisbury,135
+4043,Salmiya,187
+4044,Salmon Arm,40
+4045,Salmon Creek,334
+4046,Salt Lake City,228
+4047,Saltillo,200
+4048,Salzburg,15
+4049,Samara,255
+4050,Samarinda,149
+4051,Sammamish,334
+4052,Samsun,272
+4053,Samut Prakan,61
+4054,Samutprakarn,61
+4055,San Angelo,331
+4056,San Anselmo,300
+4057,San Antonio,331
+4058,San Bernardino,300
+4059,San Bruno,300
+4060,San Carlos,300
+4061,San Clemente,300
+4062,"San Cristobal Centro, EDO MEX",210
+4063,San Diego,300
+4064,San Dimas,300
+4065,San Fernando,14
+4066,San Francisco,300
+4067,SAN FRANCISCO INTL A,300
+4068,San Gabriel,300
+4069,San Isidro,9
+4070,San Jacinto,300
+4071,San Joaquin,59
+4072,San Jose,90
+4073,San Jose del Cabo,196
+4074,San Jose Del Monte,14
+4075,San Jose Pinula,141
+4076,San Juan,238
+4077,San Juan Capistrano,300
+4078,San Justo,9
+4079,San Leandro,300
+4080,San Lorenzo,300
+4081,San Luis Obispo,300
+4082,San Luis Potosi,218
+4083,San Marcos,300
+4084,San Marino,300
+4085,San Mateo,182
+4086,San Miguel de Allende,205
+4087,San Pablo,300
+4088,San Pedro,239
+4089,San Pedro Garza Garcia,212
+4090,San Rafael,300
+4091,San Ramon,300
+4092,San Salvador,121
+4093,San Sebastian,121
+4094,San Sebastian de los Reyes,119
+4095,San Ysidro,300
+4096,Sand City,300
+4097,Sand Springs,326
+4098,SanDiego,300
+4099,Sandpoint,307
+4100,Sandusky,325
+4101,Sandvika,28
+4102,Sandy,327
+4103,Sandy Springs,304
+4104,Sanford,303
+4105,Sanger,300
+4106,Sano,16
+4107,Santa Ana,261
+4108,Santa Barbara,300
+4109,Santa Clara,300
+4110,Santa Clarita,300
+4111,Santa Cruz,12
+4112,Santa Fe,12
+4113,Santa Fe Springs,300
+4114,Santa Maria,300
+4115,Santa Monica,300
+4116,Santa Paula,300
+4117,Santa Rosa,300
+4118,Santa Rosa City,239
+4119,Santee,300
+4120,Santiago,59
+4121,Santiago de Queretaro,215
+4122,Santo Andre,36
+4123,Santos,36
+4124,Sanyoonoda,69
+4125,Sao Bernardo do Campo,36
+4126,Sao Caetano,36
+4127,Sao Jose do Campos,36
+4128,Sao Jose do Rio Preto,36
+4129,Sao Jose dos Campos,36
+4130,Sao Paulo,36
+4131,Saphansung,168
+4132,Sapporo,92
+4133,Saraburi,168
+4134,Sarasota,303
+4135,Saratoga,300
+4136,Saratoga Springs,324
+4137,Sarnia,44
+4138,Sasebo,73
+4139,Saskatoon,47
+4140,Sathorn,168
+4141,Saughall,135
+4142,Saugus,300
+4143,Sault Ste. Marie,44
+4144,Saunlaung,168
+4145,Sausalito,300
+4146,Savage,315
+4147,Savannah,304
+4148,Sayville,324
+4149,Scappoose,327
+4150,Scarborough,44
+4151,Scarsdale,324
+4152,Schaerbeek,26
+4153,Schaumburg,308
+4154,Schenectady,324
+4155,Schereville,309
+4156,Schertz,331
+4157,Schiller Park,308
+4158,Schiphol,226
+4159,Schipol,226
+4160,Schofield Barracks,305
+4161,Schwechat,16
+4162,Scotia,324
+4163,Scotrun,328
+4164,Scotts Valley,300
+4165,Scottsbluff,320
+4166,Scottsdale,3
+4167,Scranton,328
+4168,"Scranton,",328
+4169,Sea Girt,321
+4170,Seabrook,226
+4171,Seal Beach,300
+4172,Searcy,299
+4173,Seaside,300
+4174,Seattle,334
+4175,Seattlle,334
+4176,Sebastopol,300
+4177,Sebring,303
+4178,Secaucus,321
+4179,Sechelt,40
+4180,Sedalia,94
+4181,Sedona,3
+4182,Seekonk,118
+4183,Segamat Johor,92
+4184,Seguin,331
+4185,Sejong,75
+4186,Sejong si,75
+4187,Seki,63
+4188,Selangor,168
+4189,Selbyville,302
+4190,Selden,324
+4191,Selinsgrove,328
+4192,Selkirk,41
+4193,Selma,300
+4194,Semarang,147
+4195,Seminole,303
+4196,Seminyak,151
+4197,Sendai,164
+4198,Seneca,329
+4199,Sennan,176
+4200,Sentosa Island,15
+4201,seocho-gu,61
+4202,Seogwipo,185
+4203,Seogwipo-si,185
+4204,Seokjeon,183
+4205,Seongnam,72
+4206,Seongnam-si,72
+4207,Seosan,75
+4208,Seoul,61
+4209,Sepang,168
+4210,Sequim,334
+4211,Seremban,15
+4212,Seri Kembangan,168
+4213,Seri Manjung,167
+4214,Serris,128
+4215,Setabaya-ku,30
+4216,Setagaya-ku,30
+4217,Setauket,324
+4218,Severna Park,119
+4219,Sevierville,160
+4220,Sevilla,114
+4221,Seville,325
+4222,Seward,297
+4223,Sewell,321
+4224,Sewickley,328
+4225,Seymour,116
+4226,Shad Alam,168
+4227,Shah Alam,168
+4228,Shakopee,315
+4229,shanghai,65
+4230,Shantin,86
+4231,Sharjah,7
+4232,Sharonville,325
+4233,Shavano Park,331
+4234,Shawnee,310
+4235,Shawnee Mission,310
+4236,Sheboygan,335
+4237,Sheffield,135
+4238,Shelby,318
+4239,Shelby Township,314
+4240,Shelbyville,309
+4241,Shelton,116
+4242,Shepherdsville,311
+4243,Sherbrooke,46
+4244,Sheridan,301
+4245,Sheridian,337
+4246,Sherman,331
+4247,Sherman Oaks,300
+4248,'s-Hertogenbosch,42
+4249,Sherwood,327
+4250,Sherwood Park,39
+4251,Shibata,32
+4252,Shibuya,30
+4253,Shibuya-ku,30
+4254,Shiga,174
+4255,Shijonawate,176
+4256,Shimogyo-ku,175
+4257,Shimonoseki,69
+4258,Shimotsuke,16
+4259,Shimotsuma,167
+4260,Shinagawa-ku,30
+4261,Shingu-machi,182
+4262,Shinjuku,30
+4263,Shinjuku-ku,30
+4264,Shippensburg,328
+4265,Shisui-machi,62
+4266,Shizuoka,64
+4267,Shoreham By Sea,135
+4268,Shoreline,334
+4269,Shoreview,315
+4270,Shorewood,308
+4271,Short Hills,321
+4272,Short Pump,332
+4273,Shorthills,321
+4274,Show Low,3
+4275,Showa-cho,171
+4276,Shreveport,312
+4277,Shrewsbury,135
+4278,Shropshire,135
+4279,Shuwaikh,190
+4280,Sibu,30
+4281,Sicklerville,321
+4282,Sidney,40
+4283,Sierra Madre,300
+4284,Sierra Vista,3
+4285,Signal Hill,300
+4286,Siheung,72
+4287,Siloa,205
+4288,Silver Spring,119
+4289,Silverdale,334
+4290,Silverthorne,301
+4291,Silverton,327
+4292,Simi Valley,300
+4293,Simpsonville,329
+4294,Simsbury,116
+4295,Singapore,92
+4296,Sioux City,306
+4297,Sioux Falls,330
+4298,Sittingbourne,135
+4299,Skipton,135
+4300,Skokie,308
+4301,Slidell,312
+4302,Slingerlands,324
+4303,Slippery Rock,328
+4304,Sloatsburg,324
+4305,Slough,135
+4306,Smithers,40
+4307,Smithfield,318
+4308,Smithtown,324
+4309,Smyrna,304
+4310,Snellville,304
+4311,Snohomish,334
+4312,Snoqualmie,334
+4313,Snowmass Village,301
+4314,Snowshoe,336
+4315,Sochi,251
+4316,Soderby,39
+4317,Sofia,29
+4318,Soka,61
+4319,Sokcho,73
+4320,Sokcho-si,73
+4321,Solana Beach,300
+4322,Soldotna,297
+4323,Soledad,300
+4324,Solihull,135
+4325,Sollentuna,39
+4326,Solna,39
+4327,Solo,148
+4328,Solon,325
+4329,Soltau,102
+4330,Somers,324
+4331,Somers Point,321
+4332,Somerset,311
+4333,Somersworth,226
+4334,Somerville,118
+4335,Songkhla,270
+4336,Sonoma,300
+4337,Sonora,300
+4338,Sopot,243
+4339,Soquel,300
+4340,Sorocaba,36
+4341,Soul,61
+4342,Sour,189
+4343,South Amboy,321
+4344,South Beach,303
+4345,South Bend,309
+4346,South Boston,118
+4347,South Brookline,118
+4348,South Brunswick,321
+4349,South Burlington,333
+4350,South Charleston,336
+4351,SOUTH CORONA,300
+4352,South Dennis,118
+4353,South El Monte,300
+4354,South Elgin,308
+4355,South Euclid,325
+4356,South Gate,300
+4357,South Holland,308
+4358,South Jordan,228
+4359,South Lake Tahoe,300
+4360,South Lebanon,325
+4361,South Lyon,314
+4362,South Ogden,228
+4363,South Orange,321
+4364,South Pasadena,300
+4365,South Plainfield,321
+4366,South Portland,313
+4367,South Riding,332
+4368,South Salt Lake City,228
+4369,South San Francisco,300
+4370,South Shields,135
+4371,South Surrey,40
+4372,South Wirral,135
+4373,Southampton,135
+4374,Southborough,118
+4375,Southbury,116
+4376,Southeastern,328
+4377,Southend on Sea,135
+4378,Southfield,314
+4379,Southgate,300
+4380,Southhaven,316
+4381,Southington,116
+4382,Southlake,331
+4383,Southland,130
+4384,Southport,135
+4385,Southwark,135
+4386,Spalding,135
+4387,Spanaway,334
+4388,Spangdahlem,104
+4389,Spanish Fork,228
+4390,Spanish Fort,298
+4391,Sparks,323
+4392,Spartanburg,329
+4393,Spearfish,330
+4394,Spencer,306
+4395,S-Petersburg,256
+4396,Spirit Lake,306
+4397,Spokane,334
+4398,Spokane Valley,334
+4399,Spreitenbach,49
+4400,Spring,331
+4401,Spring Hill,303
+4402,Spring Valley,300
+4403,Springdale,299
+4404,Springfield,308
+4405,Springhouse,328
+4406,Spruce Grove,39
+4407,Squamish,40
+4408,Sriracha,172
+4409,St Albans,135
+4410,St Albert,39
+4411,St Andrews,137
+4412,St Augustine,303
+4413,St Charles,308
+4414,St Cloud,315
+4415,St Helens,135
+4416,St John,309
+4417,St Johns,43
+4418,St Joseph,314
+4419,St Laurent,46
+4420,St Leonard's,135
+4421,St Louis,94
+4422,St Louis Park,315
+4423,St Mary's,325
+4424,St Matthews,311
+4425,St Paul,315
+4426,St Petersburg,256
+4427,St Simon's Island,304
+4428,St. Albans,135
+4429,St. Albert,39
+4430,St. Catharines,44
+4431,St. Charles,308
+4432,St. Clairsville,325
+4433,St. Cloud,303
+4434,St. Gallen,54
+4435,St. George,228
+4436,St. Helens,327
+4437,St. John's,43
+4438,St. Joseph,94
+4439,ST. LOUIS,94
+4440,St. Louis Park,315
+4441,St. Paul,315
+4442,St. Peters,94
+4443,St. Petersburg,303
+4444,St. Robert,94
+4445,Sta Rosa,182
+4446,Sta. Rosa,182
+4447,Stafford,135
+4448,Staffordshire,135
+4449,Staines,135
+4450,Stamford,116
+4451,Stanford,300
+4452,Stanley,86
+4453,Stansted,135
+4454,Stanton,300
+4455,Stanwood,334
+4456,Starkville,316
+4457,State College,328
+4458,Stateline,323
+4459,Staten Island,324
+4460,Statesboro,304
+4461,Statesville,318
+4462,Staunton,332
+4463,Stavanger,61
+4464,Stayton,327
+4465,Steamboat Springs,301
+4466,Stephenville,331
+4467,Sterling,332
+4468,Sterling Heights,314
+4469,Sterling Park,332
+4470,Stevenage,135
+4471,Stevens Point,335
+4472,Stevenson Ranch,300
+4473,Stillwater,315
+4474,Stjørdal,170
+4475,Stockbridge,137
+4476,Stockholm,39
+4477,Stockholm - Arlanda,39
+4478,Stockport,135
+4479,Stockton,300
+4480,Stoke on Trent,135
+4481,Stolkholm - Arlanda,39
+4482,Stone Mountain,304
+4483,Stoney Creek,44
+4484,Stony Brook,324
+4485,Stony Creek,332
+4486,Stony Plain,39
+4487,Storrs,116
+4488,Stoughton,118
+4489,Stow,325
+4490,Stowe,328
+4491,Strasbourg,89
+4492,Stratford,135
+4493,Stratford upon Avon,135
+4494,Strathmore,39
+4495,Streamwood,308
+4496,Streator,308
+4497,Streetsboro,325
+4498,Strongsville,325
+4499,Stroudsburg,328
+4500,Stuart,303
+4501,Studio City,300
+4502,Sturgeon Bay,335
+4503,STUTTGART,97
+4504,Suanluang,168
+4505,Subang Jaya,168
+4506,Sudbury,44
+4507,Suffern,324
+4508,Suffolk,135
+4509,Sugar Hill,304
+4510,Sugar Land,331
+4511,Sugarland,331
+4512,Suginami-ku,30
+4513,Suisun City,300
+4514,Suita,176
+4515,Sulaibikhat,190
+4516,Sulphur,312
+4517,Sulzbach,100
+4518,Sumida-ku,30
+4519,Summerville,329
+4520,Summit,321
+4521,Sumner,334
+4522,Sumter,329
+4523,Sun City,3
+4524,Sun City West,3
+4525,Sun Prairie,335
+4526,Sunbury,325
+4527,Suncheon,77
+4528,Sunderland,135
+4529,Sungai Petani,28
+4530,Sungnam,72
+4531,Sunland,300
+4532,Sunny Isles Beach,303
+4533,Sunnyside,324
+4534,Sunnyvale,300
+4535,Sunrise,303
+4536,Sunriver,327
+4537,Sunset Hills,94
+4538,Superior,301
+4539,Surabaya,145
+4540,Surakarta,147
+4541,Surat Thani,110
+4542,Surbiton,135
+4543,Surco,236
+4544,Surfers Paradise,18
+4545,Surfside,303
+4546,Surin,66
+4547,Surprise,3
+4548,Surrey,40
+4549,Susanville,300
+4550,Sussex,335
+4551,Susurluk,168
+4552,Sutton,135
+4553,Sutton Coldfield,135
+4554,Suwa,172
+4555,Suwanee,304
+4556,Suwon,72
+4557,Suwon-si,72
+4558,Suzhou,66
+4559,Suzuka,173
+4560,Swampscott,118
+4561,Swannanoa,318
+4562,Swansea,138
+4563,Sweet Home,327
+4564,Swift Current,47
+4565,Swindon,135
+4566,Swords,140
+4567,Sydney,17
+4568,Sylmar,300
+4569,Sylvania,325
+4570,Syosset,324
+4571,Syracuse,324
+4572,Szczecin,245
+4573,Szuka,173
+4574,Täby,39
+4575,Tabb,332
+4576,Tabouk,1
+4577,Taby,39
+4578,Tachikawa,30
+4579,Tacoma,334
+4580,Taft,300
+4581,Taga-cho,174
+4582,Tagajo,164
+4583,Tagaytay,182
+4584,Tagaytay City,182
+4585,Taguig,238
+4586,Taguig City,238
+4587,Tai Koo Shing,86
+4588,Taibao City,277
+4589,Taichung,294
+4590,Taichung City,291
+4591,Taif,14
+4592,Taihaku-ku,164
+4593,Tainan,285
+4594,Tainan City,283
+4595,Taipei,291
+4596,Taipei City,286
+4597,Taiping,167
+4598,Taito-ku,30
+4599,Taitung City,293
+4600,Tajiri-cho,176
+4601,Takamatsu,71
+4602,Takaoka,169
+4603,Takarazuka,177
+4604,Takasaki,168
+4605,Takatsuki,176
+4606,Takayama,63
+4607,Takeo,72
+4608,Takoma Park,119
+4609,Talingchan,168
+4610,Talisay,165
+4611,Tallahassee,303
+4612,Tama,30
+4613,Taman Molek,92
+4614,Tameside,135
+4615,Tampa,303
+4616,Tampico,221
+4617,Tamworth,135
+4618,Tangerang,143
+4619,Taoyuan,288
+4620,Taoyuan City,288
+4621,Taoyuan County,288
+4622,Taplow,135
+4623,Taranaki,130
+4624,Tarentum,328
+4625,Tarlac City,14
+4626,Tarpon Springs,303
+4627,Tarzana,300
+4628,Taunton,135
+4629,Tauranga,130
+4630,Taylor,314
+4631,Taylors,329
+4632,Taylorsville,228
+4633,TAYLORVILLE,308
+4634,Taytay,182
+4635,Teddington,135
+4636,Tehachapi,300
+4637,Tekirdag,68
+4638,Telde,115
+4639,Telford,135
+4640,Telluride,301
+4641,Temecula,300
+4642,Tempe,3
+4643,Temple,328
+4644,Temple City,300
+4645,Tendo,165
+4646,Tepebasi,175
+4647,Tepic,211
+4648,Terrace,40
+4649,Terre Haute,309
+4650,Terrell,331
+4651,Tewkesbury,135
+4652,Texarkana,299
+4653,Texas City,331
+4654,Thành Phố Hồ Chí Minh,54
+4655,Thalwil,57
+4656,Thatcher,3
+4657,The Colony,331
+4658,The Dalles,327
+4659,The Villages,303
+4660,The Woodlands,331
+4661,Thessaloniki,9
+4662,Thetford,135
+4663,Thiais,128
+4664,Thibodaux,312
+4665,Thinford,135
+4666,Thompson,41
+4667,Thompsons Station,160
+4668,Thonburi,168
+4669,Thornhill,44
+4670,Thornton,301
+4671,Thousand Oaks,300
+4672,Thunburi,30
+4673,Thunder Bay,44
+4674,Thurrock,135
+4675,Tifton,304
+4676,Tigard,327
+4677,Tigre,9
+4678,Tijuana,195
+4679,Tilburg,42
+4680,Tillé,12
+4681,Tillamook,327
+4682,Tilton,226
+4683,Timisoara,250
+4684,Timonium,119
+4685,Tin Hau,86
+4686,Tinley Park,308
+4687,Tinmath,301
+4688,Tinton Falls,321
+4689,Titusville,303
+4690,Tlajomulco,207
+4691,Tlalnepantla,210
+4692,Tlalnepantla de Baz,210
+4693,Tlaquepaque,207
+4694,Tochigi,16
+4695,Toda,61
+4696,Toin-cho,173
+4697,Tokai,29
+4698,Tokoname,29
+4699,Tokorozawa,61
+4700,Tokushima,70
+4701,Tokyo,30
+4702,Toledo,325
+4703,Tolleson,3
+4704,Toluca,210
+4705,Tomah,335
+4706,Tomakomai,92
+4707,Tomball,331
+4708,Tomigusuku,183
+4709,Tomisato,62
+4710,Tomiya-machi,164
+4711,Toms River,321
+4712,Tonbridge,135
+4713,Tongyeong,184
+4714,Tooele,228
+4715,Topeka,310
+4716,Toppenish,334
+4717,Topsham,313
+4718,Toride,167
+4719,Toronto,44
+4720,Torquay,135
+4721,Torrance,300
+4722,Torrelodones,119
+4723,Torreon,200
+4724,Torrington,116
+4725,Tortuguitas,9
+4726,Toshima-ku,30
+4727,Tosu,72
+4728,Tottori,176
+4729,Toufen Township,284
+4730,Toulouse,130
+4731,Tours,132
+4732,Town and Country,94
+4733,Town of Southwest Ranches,303
+4734,Towson,119
+4735,Toyama,169
+4736,Toyohashi,29
+4737,Toyokawa,29
+4738,Toyonaka,176
+4739,Toyota,29
+4740,Tracy,300
+4741,Traverse City,314
+4742,Travis AFB,300
+4743,TREMBLAY EN FRANCE,128
+4744,Trenton,321
+4745,Trevose,328
+4746,Trexlertown,328
+4747,Trinidad,301
+4748,Trinity,303
+4749,Triple Army Medical Center,305
+4750,Trondheim,169
+4751,Trophy Club,331
+4752,Troutdale,327
+4753,Trowbridge,135
+4754,Troy,314
+4755,Truckee,300
+4756,Trujillo,234
+4757,Trumball,116
+4758,Trumbull,116
+4759,Truro,135
+4760,Trussville,298
+4761,Tsawwassen,40
+4762,Tsu,173
+4763,Tsuchiura,167
+4764,Tsuen Wan,86
+4765,Tsukuba,167
+4766,Tsurugashima,61
+4767,Tualatin,327
+4768,Tuckahoe,324
+4769,Tucker,304
+4770,Tucson,3
+4771,Tuen Mum,86
+4772,Tujunga,300
+4773,Tukwila,334
+4774,Tulalip,334
+4775,Tulare,300
+4776,Tulsa,326
+4777,Tulum,216
+4778,Tumwater,334
+4779,Tunbridge Wells,135
+4780,Tunica,316
+4781,Tupelo,316
+4782,Turlock,300
+4783,Turnersville,321
+4784,Tuscaloosa,298
+4785,Tuscon,3
+4786,Tustin,300
+4787,Tuxtla Gutierrez,199
+4788,Twentynine Palms,300
+4789,Twickenham,135
+4790,Twin Falls,307
+4791,Twinsburg,325
+4792,Tyler,331
+4793,Tyumen,258
+4794,مدينة الكويت,186
+4795,مسقط,118
+4796,متن الشمالى,21
+4797,Ubon Ratchathani,68
+4798,Ueda,172
+4799,Uenohara,171
+4800,Uijeongbu,72
+4801,Uijeongbu-si,72
+4802,Ukiah,300
+4803,Ulsan,65
+4804,Ulsan-si,65
+4805,Ulu Langat,168
+4806,Umm Al Quwain,8
+4807,Uncasville,116
+4808,Union,311
+4809,Union City,300
+4810,Uniondale,324
+4811,Uniontown,325
+4812,Unionville,44
+4813,Universal City,300
+4814,University City,94
+4815,University Park,328
+4816,University Place,334
+4817,Upland,300
+4818,Upper Arlington,325
+4819,Upper Darby,328
+4820,Upper Marlboro,119
+4821,Upper Montclair,321
+4822,Upper Mt Gravatt,18
+4823,Upper Southampton Township,328
+4824,Uppsala,10
+4825,Urasoe,183
+4826,Urayasu,62
+4827,Urbana,308
+4828,Urbandale,306
+4829,Uruapan,208
+4830,Uruma,183
+4831,Ushiku,167
+4832,Utica,314
+4833,Utrecht,228
+4834,Utsunomi,16
+4835,Utsunomiya,16
+4836,Uxbridge,135
+4837,VA Beach,332
+4838,Vacaville,300
+4839,Vadnais Heights,315
+4840,Vail,301
+4841,Valaparaiso,309
+4842,Valdosta,304
+4843,Valencia,114
+4844,Valenciennes,131
+4845,Valenzuela City,238
+4846,Vallejo,300
+4847,Valley Center,300
+4848,Valley Grove,336
+4849,Valley Park,94
+4850,Valley Springs,300
+4851,Valley Stream,324
+4852,Valley Village,300
+4853,Valparaiso,60
+4854,Van Buren,299
+4855,Van Nuys,300
+4856,Vancouver,40
+4857,Vandalia,325
+4858,Vantaa,28
+4859,Vasteras,133
+4860,Vaughan,44
+4861,Vejle,111
+4862,Velizy-Villacoublay,128
+4863,Venice,300
+4864,Ventura,300
+4865,Veracruz,222
+4866,Veradale,334
+4867,Vernal,228
+4868,Vernon,40
+4869,Vernon Hills,308
+4870,Vero Beach,303
+4871,Verona,328
+4872,Versailles,128
+4873,Vestal,324
+4874,Vestavia Hills,298
+4875,Vevey,55
+4876,Vicente Lopez,9
+4877,Victor,324
+4878,Victoria,40
+4879,Victorville,300
+4880,Vienna,332
+4881,Viera,303
+4882,VIERNHEIM,100
+4883,Vila Nova de Gaia Porto,30
+4884,Villa Park,308
+4885,Villahermosa,220
+4886,Villanova,328
+4887,Ville Mont-Royal,46
+4888,Villefranche sur Saone,133
+4889,Villeurbanne,134
+4890,Vina del Mar,60
+4891,Vineland,321
+4892,Virginia,315
+4893,Virginia Beach,332
+4894,Visalia,300
+4895,Vista,300
+4896,Volo,308
+4897,Voorhees,321
+4898,Vosendorf,14
+4899,W Columbia,329
+4900,W. Hempstead,324
+4901,W. Richland,334
+4902,Waban,118
+4903,Waco,331
+4904,Waconia,315
+4905,Wadsworth,325
+4906,Waianae,305
+4907,Waikoloa,305
+4908,Wailea,305
+4909,Wailuku,305
+4910,Waipahu,305
+4911,Waite Park,315
+4912,Wakaayma,179
+4913,Wakayama,179
+4914,Wake Forest,318
+4915,Wakefield,135
+4916,Waldorf,119
+4917,Walker,314
+4918,Wall Township,321
+4919,Walla Walla,334
+4920,Wallasey,135
+4921,Walled Lake,314
+4922,Wallingford,116
+4923,Wallisellen,57
+4924,Walnut,300
+4925,Walnut Creek,300
+4926,Walpole,118
+4927,Walsall,135
+4928,Waltham,118
+4929,Waltham Cross,135
+4930,Walton,311
+4931,Walton on Thames,135
+4932,Wan Chai,86
+4933,Wandsworth,135
+4934,Wangthonglang,168
+4935,Wangtonglang,168
+4936,Wanstead,135
+4937,Wantagh,324
+4938,Warabi,61
+4939,Wareham,118
+4940,Warminster,135
+4941,Warner Robins,304
+4942,Warr Acres,326
+4943,Warren,314
+4944,Warrensburg,94
+4945,Warrenton,327
+4946,Warrenville,308
+4947,Warrington,135
+4948,Warsaw,242
+4949,Warszawa,242
+4950,Warwick,135
+4951,Washington,88
+4952,Washington DC,88
+4953,Washington Township,328
+4954,Washougal,334
+4955,Wasilla,297
+4956,Watauga,331
+4957,Watchung,321
+4958,Waterbury,116
+4959,Waterdown,44
+4960,Waterfall,328
+4961,Waterford,140
+4962,Waterloo,44
+4963,Watertown,116
+4964,Waterville,313
+4965,Watford,135
+4966,Watsonville,300
+4967,Wattana,168
+4968,Waukegan,308
+4969,Waukesha,335
+4970,Wausau,335
+4971,Wauwatosa,335
+4972,WAVERLY,325
+4973,Waxahachie,331
+4974,Waxhaw,318
+4975,Waycross,304
+4976,Wayland,118
+4977,Wayne,321
+4978,Waynesboro,332
+4979,Waynesville,94
+4980,Wayzata,315
+4981,Weatherford,331
+4982,Weaverville,300
+4983,Webb City,94
+4984,Webster,118
+4985,Webster Groves,94
+4986,Wednesbury,135
+4987,Weirton,336
+4988,WEITERSTADT,100
+4989,Wellesley,118
+4990,Wellingborough,135
+4991,Wellington,130
+4992,Welwyn Garden City,135
+4993,Wembley,135
+4994,Wenatchee,334
+4995,Wendover,323
+4996,Wentzville,94
+4997,Wenzhou,67
+4998,Weslaco,331
+4999,Wesley Chapel,303
+5000,West Allis,335
+5001,West Babylon,324
+5002,West Bend,335
+5003,West Bloomfield,314
+5004,West Burlington,306
+5005,West Caldwell,321
+5006,West Chester,325
+5007,West Chicago,308
+5008,West covina,300
+5009,West Des Moines,306
+5010,West Dundee,308
+5011,West Gardiner,313
+5012,West Grove,328
+5013,West Hartford,116
+5014,West Haven,116
+5015,West Hills,300
+5016,West Hollywood,300
+5017,West Homestead,328
+5018,WEST JORDAN,228
+5019,West Kelowna,40
+5020,West Lafayette,309
+5021,West Lawn,328
+5022,West Linn,327
+5023,West Los Angeles,300
+5024,West Marietta,304
+5025,West Melbourne,303
+5026,West Milwaukee,335
+5027,West New York,321
+5028,West Nyack,324
+5029,West Palm,303
+5030,West Palm Beach,303
+5031,West Point,324
+5032,West Roxbury,118
+5033,West Sacramento,300
+5034,West St. Paul,315
+5035,West Sussex,135
+5036,West Thurrock,135
+5037,West Union,329
+5038,West Unity,325
+5039,West Valley City,228
+5040,West Vancouver,40
+5041,West Yorkshire,135
+5042,Westbank,40
+5043,Westboro,118
+5044,Westborough,118
+5045,Westbury,324
+5046,Westchester,300
+5047,Western Springs,308
+5048,Westerville,325
+5049,Westfield,309
+5050,Westford,118
+5051,Westlake,300
+5052,Westlake Village,300
+5053,Westland,314
+5054,Westmead,17
+5055,Westminister,119
+5056,Westminster,300
+5057,Westmont,308
+5058,westmoreland,324
+5059,Westmount,46
+5060,Weston,303
+5061,Weston Super Mare,135
+5062,Westport,116
+5063,Westwood,300
+5064,Wetaskiwin,39
+5065,Wethersfield,116
+5066,Wexford,328
+5067,Weybridge,135
+5068,Weyburn,47
+5069,Weymouth,135
+5070,Wheat Ridge,301
+5071,Wheaton,308
+5072,Wheeling,308
+5073,Whistler,40
+5074,Whitby,44
+5075,Whitchurch,135
+5076,White Bear Lake,315
+5077,White Lake,314
+5078,White Marsh,119
+5079,WHITE PLAINS,324
+5080,Whitefish,317
+5081,Whitefish Bay,335
+5082,Whitehall,325
+5083,Whitehorse,48
+5084,Whitehouse Station,321
+5085,Whiteley,135
+5086,Whitestone,324
+5087,Whitestown,309
+5088,Whittier,300
+5089,Whitton,135
+5090,Wichita,310
+5091,Wichita Falls,331
+5092,Wickenburg,3
+5093,Wien,16
+5094,Wiesbaden,100
+5095,Wigan,135
+5096,Wildomar,300
+5097,Wildwood,94
+5098,Wilkes Barre,328
+5099,Wilkes-Barre,328
+5100,WILLCOX,3
+5101,Willemstad,91
+5102,Williams,3
+5103,Williams Lake,40
+5104,Williamsburg,332
+5105,Williamsport,328
+5106,Williamston,314
+5107,Williamsville,324
+5108,Willis,331
+5109,Williston,333
+5110,Willits,300
+5111,Willoughby,325
+5112,WILLOW GROVE,328
+5113,Willowbrook,308
+5114,Willows,300
+5115,Wilmette,308
+5116,Wilmington,302
+5117,Wilmslow,135
+5118,Wilson,318
+5119,Wilsonville,327
+5120,Wilton,116
+5121,Wilton Manors,303
+5122,Wiltshire,135
+5123,Winchester,135
+5124,Winchster,135
+5125,Windsor,44
+5126,Windsor Heights,306
+5127,Winfield,40
+5128,Winnetka,308
+5129,Winnipeg,41
+5130,Winona,315
+5131,Winston Salem,318
+5132,Winston-Salem,318
+5133,Winter Garden,303
+5134,Winter Haven,303
+5135,Winter Park,301
+5136,Winter Springs,303
+5137,Winterthur,57
+5138,Wirral,135
+5139,Wisbech,135
+5140,Wisconsin Dells,335
+5141,Witchita,310
+5142,Woburn,118
+5143,Woking,135
+5144,Wolverhampton,135
+5145,Wonju,73
+5146,wonju-si,73
+5147,Wood Village,327
+5148,Woodbridge,44
+5149,Woodburn,327
+5150,Woodbury,315
+5151,Woodcliff Lake,321
+5152,Woodhaven,314
+5153,Woodinville,334
+5154,Woodland,300
+5155,Woodland Hills,300
+5156,Woodland Park,301
+5157,Woodlands,331
+5158,Woodmere,325
+5159,Woodridge,308
+5160,Woods Cross,228
+5161,Woodside,324
+5162,Woodstock,44
+5163,Woodway,331
+5164,Wooloongabba,18
+5165,Woolwich,135
+5166,Wooster,325
+5167,Worcester,135
+5168,Worthing,135
+5169,Worthington,325
+5170,Wrexham,138
+5171,Wright-Patterson AFB,325
+5172,Wrocław,240
+5173,Wroclaw,240
+5174,WUPPERTAL,103
+5175,Wyckoff,321
+5176,Wylie,331
+5177,Wynnewood,328
+5178,Wyoming,314
+5179,Wyomissing,328
+5180,Wytheville,332
+5181,Xalapa,222
+5182,Xalapa Enriquez,222
+5183,Xihu Township,284
+5184,Xiluo Township,296
+5185,Yachiyo,62
+5186,Yakima,334
+5187,Yamagata,165
+5188,Yamaguchi,69
+5189,Yamato,31
+5190,Yamatokoriyama,178
+5191,Yamatotakada,178
+5192,Yangju-si,72
+5193,Yangsan,184
+5194,Yangsan-si,184
+5195,Yankton,330
+5196,Yannawa,168
+5197,Yao,176
+5198,Yardley,328
+5199,Yardville,321
+5200,Yaroslavl,259
+5201,Yate,135
+5202,Yatsushiro,182
+5203,Yekaterinburg,257
+5204,Yelm,334
+5205,Yenimahalle Merkez,165
+5206,Yeosu,77
+5207,Yeovil,135
+5208,Yilan City,281
+5209,Yilan County,281
+5210,Yogyakarta,148
+5211,Yokkaichi,173
+5212,Yokohama,31
+5213,Yokosuka,31
+5214,Yomitanson,183
+5215,Yonago,65
+5216,Yongin,72
+5217,Yongin-si,72
+5218,Yonkers,324
+5219,Yorba Linda,300
+5220,York,135
+5221,Yorkshire,135
+5222,Yorktown,332
+5223,Yorktown Heights,324
+5224,Yorkville,308
+5225,Yoshioka-machi,168
+5226,Yotsukaido,62
+5227,Youngstown,325
+5228,Ypsilanti,314
+5229,Yreka,300
+5230,Yuanlin Township,273
+5231,Yuba City,300
+5232,Yucaipa,300
+5233,Yucca Valley,300
+5234,Yuen Long,86
+5235,Yufu,75
+5236,Yukon,326
+5237,Yulee,303
+5238,Yuma,3
+5239,Yunlin County,296
+5240,Zacatecas,224
+5241,Zanesville,325
+5242,Zapopan,207
+5243,Zargoza,122
+5244,Zaventem,26
+5245,Zeeland,314
+5246,Zephyr Cove,323
+5247,Zhongli City,288
+5248,Zhoushan,67
+5249,Zhubei City,278
+5250,Zionsville,309
+5251,Zug,56
+5252,Zurich,57
+5253,Zushi,31
+5254,Zwolle,227
+5255, NULL,0

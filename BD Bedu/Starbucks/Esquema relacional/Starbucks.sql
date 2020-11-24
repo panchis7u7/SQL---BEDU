@@ -43,5 +43,6 @@ CREATE TABLE IF NOT EXISTS Tiendas (
     id_timezone INT NOT NULL,
     FOREIGN KEY (id_ownership) REFERENCES Propiedades (id_ownership) ON DELETE CASCADE ON UPDATE CASCADE,
     FOREIGN KEY (id_city) REFERENCES Ciudades (id_city) ON DELETE CASCADE ON UPDATE CASCADE,
-    FOREIGN KEY (id_timezone) REFERENCES Zonas_Horarias (id_timezone) ON DELETE CASCADE ON UPDATE CASCADE
+    FOREIGN KEY (id_timezone) REFERENCES Zonas_Horarias (id_timezone) ON DELETE CASCADE ON UPDATE CASCADE,
+    PRIMARY KEY (id_store, store_number)
 );

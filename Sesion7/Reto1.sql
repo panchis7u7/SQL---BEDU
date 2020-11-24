@@ -13,5 +13,10 @@ CREATE TABLE IF NOT EXISTS ratings (
    id_usuario INT, 
    id_pelicula INT, 
    rating INT, 
-   time_stamp BIGINT
+   time_stamp BIGINT,
+   FOREIGN KEY (id_pelicula) REFERENCES movies (id_pelicula) ON UPDATE CASCADE ON DELETE CASCADE
 );
+
+DROP TABLE IF EXISTS movies;
+DROP TABLE IF EXISTS ratings;
+DROP DATABASE IF EXISTS theater;

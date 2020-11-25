@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS Fechas (
 
 CREATE TABLE IF NOT EXISTS Provincias (
 	id_province INT PRIMARY KEY,
-    province VARCHAR(80) NOT NULL
+    province VARCHAR(80)
 );
 
 CREATE TABLE IF NOT EXISTS Regiones(
@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS Regiones(
     region VARCHAR(40) NOT NULL
 );
 
-CREATE TABLE IF NOT EXISTS Stadistics (
+CREATE TABLE IF NOT EXISTS Estadisticas (
 	id_statistic INT PRIMARY KEY,
     confirmed INT NOT NULL,
     deaths INT NOT NULL,
